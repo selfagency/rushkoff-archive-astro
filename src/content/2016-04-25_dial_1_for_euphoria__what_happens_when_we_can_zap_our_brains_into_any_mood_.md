@@ -1,16 +1,16 @@
 ---
-title: Dial 1 for euphoria: What happens when we can zap our brains into any mood?
-subtitle: 
+title: 'Dial 1 for euphoria: What happens when we can zap our brains into any mood?'
+subtitle:
 date: 2016-04-25
-blurb: 
-notes: 
+blurb:
+notes:
 publication: digital_trends
 categories: [journalism]
 ---
 
 One algorithm makes you smaller, and one makes you tall. But the ones the FDA gives you won’t do anything at all – not without a prescription, anyway.
 
-Welcome to the brave new world of electrotherapy stimulation. What may have once been limited to experimental research labs is about to become as common as Prozac – and that should have Big Pharma scared.  Mood alteration is becoming as simple and inexpensive as a battery-powered handheld device with two little electrodes you strap on your head. Sit there for 20 minutes receiving gentle, barely perceptible pulses, and cure your anxiety, insomnia, PTSD, depression, bipolar disorder, and more.
+Welcome to the brave new world of electrotherapy stimulation. What may have once been limited to experimental research labs is about to become as common as Prozac – and that should have Big Pharma scared. Mood alteration is becoming as simple and inexpensive as a battery-powered handheld device with two little electrodes you strap on your head. Sit there for 20 minutes receiving gentle, barely perceptible pulses, and cure your anxiety, insomnia, PTSD, depression, bipolar disorder, and more.
 
 This much isn’t speculation, but FDA-verified, double-blind, peer-reviewed fact. Doctors at Mt. Sinai Beth Israel in New York used neurostimulation not only to successfully treat bipolar depression, but to do so with zero side effects. Compared with the documented long-term impact of selective serotonin re-uptake inhibitors (SSRIs) and other psychopharm solutions, this is astonishing.
 It’s also super cheap. The leading device in the sector, the Fisher Wallace Stimulator, retails for around $600 – although some insurance companies and Medicaid will pick up the tab. That’s less money than a single monthly dose of many mood drugs. And it won’t keep you from being able to have sex or get to sleep without another compensating drug.

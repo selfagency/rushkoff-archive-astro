@@ -1,9 +1,9 @@
 ---
-title: E: Prescription for Cultural Renaissance
-subtitle: 
+title: "E: Prescription for Cultural Renaissance"
+subtitle:
 date: 2001-01-01
 blurb: Published in *Ecstasy: The Complete Guide*, Edited by Julie Holland, M.D. (Park Street Press, 2001)
-notes: 
+notes:
 publication: anthologies
 categories: [book-chapters]
 ---

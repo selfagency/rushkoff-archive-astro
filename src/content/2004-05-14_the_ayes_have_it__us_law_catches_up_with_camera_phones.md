@@ -1,9 +1,9 @@
 ---
-title: The Ayes Have It: US Law Catches up with Camera Phones
-subtitle: 
+title: 'The Ayes Have It: US Law Catches up with Camera Phones'
+subtitle:
 date: 2004-05-14
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

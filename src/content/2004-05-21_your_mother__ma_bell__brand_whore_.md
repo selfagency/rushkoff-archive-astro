@@ -1,9 +1,9 @@
 ---
-title: Your Mother: Ma Bell, Brand Whore?
-subtitle: 
+title: 'Your Mother: Ma Bell, Brand Whore?'
+subtitle:
 date: 2004-05-21
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

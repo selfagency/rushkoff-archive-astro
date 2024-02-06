@@ -2,8 +2,8 @@
 title: Channeling the Beam
 subtitle: Ecstasy Club and the Unfulfillable Promise
 date: 2022-07-26
-blurb: 
-notes: [https://rushkoff.medium.com/channeling-the-beam-3ab698041b90](https://rushkoff.medium.com/channeling-the-beam-3ab698041b90 "https://rushkoff.medium.com/channeling-the-beam-3ab698041b90")
+blurb:
+notes: 'https://rushkoff.medium.com/channeling-the-beam-3ab698041b90'
 publication: medium
 categories: [journalism]
 ---

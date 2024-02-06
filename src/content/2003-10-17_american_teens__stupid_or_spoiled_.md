@@ -1,9 +1,9 @@
 ---
-title: American Teens: Stupid or Spoiled?
-subtitle: 
+title: 'American Teens: Stupid or Spoiled?'
+subtitle:
 date: 2003-10-17
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

@@ -1,8 +1,8 @@
 ---
-title: Loomio: The Occupy Inspired App for Consensus Decision Making
-subtitle: 
+title: "Loomio: The Occupy Inspired App for Consensus Decision Making"
+subtitle:
 date: 2014-03-19
-blurb: 
+blurb:
 notes: Source: [https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/](https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/ "https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/")
 publication: shareable
 categories: [journalism]

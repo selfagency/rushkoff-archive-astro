@@ -1,16 +1,14 @@
 ---
 title: The Digital Revolution Eats Its Own
-subtitle: 
+subtitle:
 date: 2000-01-01
-blurb: 
-notes: Source: [https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/](https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/ "https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/")
-
-Date: January 2000 per [https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/](https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/ "https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/")
+blurb:
+notes: 'Source: https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/. Date: January 2000 per https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/.'
 publication: harper-s-magazine
 categories: [journalism]
 ---
 
-From an interview with Douglas Rushkoff on Edge (www.edge.org), a Web site edited by John Brockman. Rushkoff’s most recent book is Coercion, published in September by Riverhead Books.
+From an interview with Douglas Rushkoff on Edge (<www.edge.org>), a Web site edited by John Brockman. Rushkoff’s most recent book is Coercion, published in September by Riverhead Books.
 
 JOHN BROCKMAN: Let’s talk about the so-called human communications revolution.
 

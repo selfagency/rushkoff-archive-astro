@@ -1,9 +1,9 @@
 ---
-title: Apple v Samsung: What if They Had Patented the Alphabet?
-subtitle: 
+title: 'Apple v Samsung: What if They Had Patented the Alphabet?'
+subtitle:
 date: 2012-08-31
-blurb: 
-notes: 
+blurb:
+notes:
 publication: cnn
 categories: [journalism]
 ---
@@ -14,7 +14,7 @@ That's the way the patent wars on smartphone and tablet advances are beginning t
 
 As a human being, I do not particularly care about Apple’s recent victory in the US version of its patent lawsuit against Samsung for copying its iPhone and iPad’s form and features. Now that Apple is demanding that Samsung pull eight of its products off the shelf, my only personal interest is whether the Samsung products, once banned, will become collectors’ items. Will I one day want to show my grandchild the phone that dared to mimic the iPhone?
 
-But while the details of legalities and impact to share prices and even consumer choice don’t keep me or any of my friends up at night,  there is nonetheless something creepy about Apple’s suit. It’s not so much that Apple - the biggest company in the world - has turned into a competitive monster; it’s the territory that Apple’s fighting over. It feels as if the technology innovation wars are no longer over one piece of technology or another, but over us humans.  
+But while the details of legalities and impact to share prices and even consumer choice don’t keep me or any of my friends up at night, there is nonetheless something creepy about Apple’s suit. It’s not so much that Apple - the biggest company in the world - has turned into a competitive monster; it’s the territory that Apple’s fighting over. It feels as if the technology innovation wars are no longer over one piece of technology or another, but over us humans.
 
 It’s one thing for Apple to defend the look and feel of its phone - things like the little button on the bottom, which are apparently obvious but actually the result of a lengthy and painstaking design process. They may deserve a few years exclusive on stuff like that.
 

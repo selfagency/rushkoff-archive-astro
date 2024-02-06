@@ -1,27 +1,27 @@
 ---
-title: Children of Chaos: Surviving the End of the World as We Know It
-subtitle: 
+title: 'Children of Chaos: Surviving the End of the World as We Know It'
+subtitle:
 date: 2000-01-11
-blurb: 
+blurb:
 notes: Date from Amazon
 publication: fresh-cream
 categories: [book-chapters]
 ---
 
-Douglas Rushkoff  
-CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997  
+Douglas Rushkoff
+CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997
 Selected by Apinan Poshyananda
 
 Douglas Rushkoff's _Children of Chaos_ is a perceptive and compelling piece of writing that reflects the impact of chaotic and disjointed waves of change on our lives. In the 'Age of Chaos', our world is overwhelmed by expanding technology and the collapse of national and social boundaries. Rushkoff looks brilliantly at aspects of a non-apocalyptic future where children and young adults are immigrants in a very new territory. In order to survive they become part of a digital rave culture and identify themselves with superhero characters. Immersed in their time, TV-fixated youth thrive on chaos in order to cope with a high-tech non-linear culture.
 
 Rushkoff argues that all is not lost despite dislocations and confusion. By attempting to understand the way of life and cultural values of our younger generations, it might be possible to adapt to the uncertainties of our times.
 
-Rushkoff's writing overlaps with many subjects and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience.  
+Rushkoff's writing overlaps with many subjects and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience.
 Apinan Poshyananda
 
 _Introduction_
 
-'They keep changing the rules - how we're supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.'  
+'They keep changing the rules - how we're supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.'
 \- US soldier in Haiti police operation, October 1994
 
 Looks like this is the end.

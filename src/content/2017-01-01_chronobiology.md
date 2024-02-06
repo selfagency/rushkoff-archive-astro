@@ -1,9 +1,9 @@
 ---
 title: Chronobiology
-subtitle: 
+subtitle:
 date: 2017-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/27083](https://www.edge.org/response-detail/27083 "https://www.edge.org/response-detail/27083")
+blurb:
+notes: 'https://www.edge.org/response-detail/27083'
 publication: the-edge
 categories: [journalism]
 ---

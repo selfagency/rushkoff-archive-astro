@@ -1,8 +1,8 @@
 ---
-title: The Sustainability Prerogative: Nonprofits in the Future of our Economy
-subtitle: 
+title: "The Sustainability Prerogative: Nonprofits in the Future of our Economy"
+subtitle:
 date: 2017-04-25
-blurb: 
+blurb:
 notes: Source: [https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/](https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/ "https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/")
 
 Image: nonprofitquarterly.org/wp-content/uploads/2016/04/google-bus-e1461764855795.jpg
@@ -14,7 +14,7 @@ _Douglas Rushkoff’s best-selling books on media and popular culture, including
 
 _In_ [Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity](http://www.rushkoff.com/books/throwing-rocks-at-the-google-bus/)_, Douglas Rushkoff argues we have failed to build the distributed economy that digital networks are capable of fostering and have instead doubled down on the industrial age mandate of growth above all. Central to his argument is the rise of a new dominant business form—and it is, ideally, nonprofit._
 
-***
+---
 
 **Ruth McCambridge \[RM\]:** _Douglas, your ideas are so aligned with a lot of what we’ve been thinking about at_ NPQ _in terms of where the general economy is going and what part nonprofits should have in its future. We have been talking with our readers about thinking bigger, understanding that there’s a major shift going on, and that they have to understand the hugeness of it and the capacities of it before it’s too late. But the tendency in the nonprofit sector is to deal with one social issue at a time and not with the larger construct of the economy or with the way individual enterprises reflect one economic priority over another. That leads to some pretty muddy thinking where valuing ourselves as economic engines goes._
 

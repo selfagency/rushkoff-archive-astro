@@ -1,6 +1,6 @@
 ---
-title: Huffington Post and AOL: the end of Web 2.0
-subtitle: 
+title: "Huffington Post and AOL: the end of Web 2.0"
+subtitle:
 date: 2011-02-09
 blurb: HuffPo's sale to AOL does not mean its demise, but it is the demise of something: we'd write for free for Arianna, but not AOL
 notes: [https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff](https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff "https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff")

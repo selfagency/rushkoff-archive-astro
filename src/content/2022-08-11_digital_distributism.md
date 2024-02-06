@@ -1,9 +1,9 @@
 ---
 title: Digital Distributism
-subtitle: Part II: From Artisans to Employees
+subtitle: 'Part II: From Artisans to Employees'
 date: 2022-08-11
-blurb: 
-notes: [https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8](https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8 "https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8")
+blurb:
+notes: 'https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8'
 publication: medium
 categories: [journalism]
 ---

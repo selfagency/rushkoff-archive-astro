@@ -1,9 +1,9 @@
 ---
 title: The Internet Makes Me Think in the Present Tense
-subtitle: 
+subtitle:
 date: 2010-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11430](https://www.edge.org/response-detail/11430 "https://www.edge.org/response-detail/11430")
+blurb:
+notes: 'https://www.edge.org/response-detail/11430'
 publication: the-edge
 categories: [journalism]
 ---

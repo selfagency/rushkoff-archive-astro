@@ -1,9 +1,9 @@
 ---
-title: SMS Activism: Don't Call Us, We'll Call You
-subtitle: 
+title: "SMS Activism: Don't Call Us, We'll Call You"
+subtitle:
 date: 2005-06-08
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

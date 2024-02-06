@@ -1,8 +1,8 @@
 ---
-title: Playing the Future: Towards a Creative Society
+title: "Playing the Future: Towards a Creative Society"
 subtitle: 56th Alfred Korzybski Memorial Lecture
 date: 2007-06-01
-blurb: 
+blurb:
 notes: [https://generalsemantics.org/resources/documents/gsb-74-75-rushkoff.pdf](https://generalsemantics.org/resources/documents/gsb-74-75-rushkoff.pdf "https://generalsemantics.org/resources/documents/gsb-74-75-rushkoff.pdf")
 publication: general-semantics-bulletin
 categories: [scholarship]

@@ -1,9 +1,9 @@
 ---
-title: Bart Simpson: Prince Of Irreverence
-subtitle: 
+title: "Bart Simpson: Prince Of Irreverence"
+subtitle:
 date: 2004-01-01
 blurb: Published in *Leaving Springfield: The Simpsons and the Possibility of Oppositional Culture*, Edited by John Alberti (Wayne State University Press, 2004)
-notes: 
+notes:
 publication: anthologies
 categories: [book-chapters]
 ---

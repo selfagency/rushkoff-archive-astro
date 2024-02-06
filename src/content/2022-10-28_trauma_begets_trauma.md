@@ -3,7 +3,7 @@ title: Trauma Begets Trauma
 subtitle: The political expediency of holding one’s nose
 date: 2022-10-28
 blurb: Perfect is more than a mere enemy of good; it is anathema to any _progressive_ agenda.
-notes: [https://rushkoff.medium.com/trauma-begets-trauma-ae711fed89e1](https://rushkoff.medium.com/trauma-begets-trauma-ae711fed89e1 "https://rushkoff.medium.com/trauma-begets-trauma-ae711fed89e1")
+notes: 'https://rushkoff.medium.com/trauma-begets-trauma-ae711fed89e1'
 publication: medium
 categories: [journalism]
 ---

@@ -3,7 +3,7 @@ title: Going Meta
 subtitle: Why the tech billionaires want to rise above the rest of us, and why it’s so stupid you have to laugh
 date: 2022-09-01
 blurb: They’re not just going meta, but metastasizing.
-notes: [https://rushkoff.medium.com/going-meta-d42c6a09225e](https://rushkoff.medium.com/going-meta-d42c6a09225e "https://rushkoff.medium.com/going-meta-d42c6a09225e")
+notes: 'https://rushkoff.medium.com/going-meta-d42c6a09225e'
 publication: medium
 categories: [journalism]
 ---

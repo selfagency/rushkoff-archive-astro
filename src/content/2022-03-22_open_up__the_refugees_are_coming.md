@@ -1,5 +1,5 @@
 ---
-title: Open Up: The Refugees are Coming
+title: "Open Up: The Refugees are Coming"
 subtitle: I’ll stake my future on the solidarity of the people over the cynicism of the elite.
 date: 2022-03-22
 blurb: On hearing what was coming, the global elite immediately concluded that the world could not get its act together in time. Like everything else in the elite’s world view, there would be winners and losers.

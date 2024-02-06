@@ -1,16 +1,15 @@
 ---
-title: The Power of Three: When Technology, Business, and Marketing Converge - Part III
-subtitle: 
+title: 'The Power of Three: When Technology, Business, and Marketing Converge - Part III'
+subtitle:
 date: 2008-10-15
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---
 
 It's one thing to know your consumers - it's a far greater challenge to develop your technology and balance sheet around them.
 
-  
 In part one, we looked at the importance of congruence in strategizing your marketing along with your infrastructure along with your financials. Then we considered how new forms of content experiences are bifurcating the mobile market into two main camps: the tinkerer and the do-it-for-me. Now it's time to put these ideas together, and determine the best ways of providing for - and making a business from - these two usage profiles.
 
 In both cases, we determine our intended user base, and then leverage the Power of Three: devise a business plan with sensible content deals, build the right software and infrastructure, then communicate your offerings effectively.

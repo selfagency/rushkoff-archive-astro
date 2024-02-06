@@ -1,9 +1,9 @@
 ---
-title: Universal Access: Not Just for the Disabled
-subtitle: 
+title: 'Universal Access: Not Just for the Disabled'
+subtitle:
 date: 2005-01-12
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

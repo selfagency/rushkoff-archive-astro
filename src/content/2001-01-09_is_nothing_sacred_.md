@@ -1,9 +1,9 @@
 ---
 title: Is Nothing Sacred?
-subtitle: 
+subtitle:
 date: 2001-01-09
-blurb: 
-notes: [https://www.edge.org/response-detail/12012](https://www.edge.org/response-detail/12012 "https://www.edge.org/response-detail/12012")
+blurb:
+notes: 'https://www.edge.org/response-detail/12012'
 publication: the-edge
 categories: []
 ---

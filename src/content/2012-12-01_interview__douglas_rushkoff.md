@@ -1,9 +1,9 @@
 ---
-title: Interview: Douglas Rushkoff
-subtitle: 
+title: "Interview: Douglas Rushkoff"
+subtitle:
 date: 2012-12-01
-blurb: 
-notes: Winter 2012  
+blurb:
+notes: Winter 2012
 Volume 1, Issue 2
 publication: plgrm
 categories: [journalism]
@@ -33,19 +33,19 @@ So people move out of a historical appreciation of religion, which is what I've 
 
 I think that we're in an equivalent shift. I think the shift we're undergoing now is as big as the axial age shift, and, I mean, I just accept people like Karen Armstrong at face value. They did more research than I did, so I just believe--she might be wrong--that the axial age happened and people went from this, you know, pre-Theist thing or this poly-Theist to this mono-Theist thing and text and time and progress and all these other notions of western civilization happened.
 
-So we move into this other thing, and I'm really writing about and thinking about the different ways that we react to that, how it changes the way we look at investments, you know, from investing in a company that's going to do well over time to investing in a derivative that's going to do well in the moment, you know, in the second. Some of these are very false hopes and some of them are hopes that might work. 
+So we move into this other thing, and I'm really writing about and thinking about the different ways that we react to that, how it changes the way we look at investments, you know, from investing in a company that's going to do well over time to investing in a derivative that's going to do well in the moment, you know, in the second. Some of these are very false hopes and some of them are hopes that might work.
 
-**This narrative that you began talking about, about a journey and the individual experience, for a long time people in churches have really criticized that and said, “You can't just do that. You have to be in a particular community that meets at particular times. That's the Religious aspect of the experience.” Do you think that needs to be recovered in some way?** 
+**This narrative that you began talking about, about a journey and the individual experience, for a long time people in churches have really criticized that and said, “You can't just do that. You have to be in a particular community that meets at particular times. That's the Religious aspect of the experience.” Do you think that needs to be recovered in some way?**
 
-It's gonna be hard. I mean, my old high school friend Aaron Sorkin is the last of the great story tellers, but when I look at his latest and greatest newest shows, “Newsroom” or something, it's nostalgia. It's nostalgia for an era when those things make sense, where that emotional arc makes sense. Life so does not work like that. So I would say, "No." If anything, we move into a kind of meta-appreciation of these kinds of stories. 
+It's gonna be hard. I mean, my old high school friend Aaron Sorkin is the last of the great story tellers, but when I look at his latest and greatest newest shows, “Newsroom” or something, it's nostalgia. It's nostalgia for an era when those things make sense, where that emotional arc makes sense. Life so does not work like that. So I would say, "No." If anything, we move into a kind of meta-appreciation of these kinds of stories.
 
-**What are the kinds of experiences that you see people reaching out for and trying to have?** 
+**What are the kinds of experiences that you see people reaching out for and trying to have?**
 
-It depends on the people. People are mostly flailing around now, looking at everything but one another for a sense of connection. So they're looking to websites and tweets and all this crap, all this electronic stuff. They're desperately trying to catch up with what they think is the moment, because they don't have any sense that they are is where it's at. 
+It depends on the people. People are mostly flailing around now, looking at everything but one another for a sense of connection. So they're looking to websites and tweets and all this crap, all this electronic stuff. They're desperately trying to catch up with what they think is the moment, because they don't have any sense that they are is where it's at.
 
 **Is that a psychological problem?**
 
-It's a psychological problem. It's also a problem of living in a culture that's been based on getting people to feel inadequate so they buy more stuff. What if people actually felt good about themselves? The economy would crash. 
+It's a psychological problem. It's also a problem of living in a culture that's been based on getting people to feel inadequate so they buy more stuff. What if people actually felt good about themselves? The economy would crash.
 
 **I'm wondering if you see particular communities that are better about this "living in the now" than the general population.**
 
@@ -55,11 +55,11 @@ The whole problem for anybody in the church business is that we've moved from a 
 
 **What if we imagined the local religious community as a platform on which individuals and groups of people who want to do good work and who are already doing good work could do it better? Does that sound like a cop-out?**
 
-Well there's only one way to find out. Just see if they take you up on it. I think that the beauty of church over time has been its willingness to go where people are. I mean, they read Torah on market days. I remember there was a whole debate about that, that it's some kind of blasphemy, but, you know, guys like Ezra and Nehemiah were out there going, "Fuck this. People are there on Tuesdays and Thursdays. That's when we're gonna read this thing. And they don't know how to read." You're going to have to go where they are. The church, then, has to be as selfless as we're asking people to be. 
+Well there's only one way to find out. Just see if they take you up on it. I think that the beauty of church over time has been its willingness to go where people are. I mean, they read Torah on market days. I remember there was a whole debate about that, that it's some kind of blasphemy, but, you know, guys like Ezra and Nehemiah were out there going, "Fuck this. People are there on Tuesdays and Thursdays. That's when we're gonna read this thing. And they don't know how to read." You're going to have to go where they are. The church, then, has to be as selfless as we're asking people to be.
 
-I was talking to a major Jewish philanthropist, I mean one of the top three, and he was talking about what he wants and what he wants to do with his money, and I said, "Look, if everybody in the world did Judaism, everybody - they all kept sabbath, they did the high holidays, they followed all the 613 mitzvas, but nobody knew it was called 'Judaism' - would you be okay with that? Would you feel you had accomplished something?" Well, no! That would be awful. Well, there's nothing we can talk about then. People have to know this is called “Judaism" or he hasn't done his job. 
+I was talking to a major Jewish philanthropist, I mean one of the top three, and he was talking about what he wants and what he wants to do with his money, and I said, "Look, if everybody in the world did Judaism, everybody - they all kept sabbath, they did the high holidays, they followed all the 613 mitzvas, but nobody knew it was called 'Judaism' - would you be okay with that? Would you feel you had accomplished something?" Well, no! That would be awful. Well, there's nothing we can talk about then. People have to know this is called “Judaism" or he hasn't done his job.
 
-Credit is really the operative word here; you can't take credit for it. It's just going to happen. The problem is if you're not getting any credit for it, who's going to keep you alive for doing it. It gets really tricky. 
+Credit is really the operative word here; you can't take credit for it. It's just going to happen. The problem is if you're not getting any credit for it, who's going to keep you alive for doing it. It gets really tricky.
 
 **For a lot of my friends, our relationships with each other are becoming as important for what we believe as what the tradition or the Bible has told us to believe. Is that a good tendency to promote, or is there some value in really maintaining, “This is what the tradition or the Torah says, and you have to stick to that?"**
 
@@ -77,23 +77,23 @@ It's interesting because our last savior at least came in human form.
 
 **But people seem to be able to navigate multiple groups that they want to belong to. On a religious level, they may even be different religious communities that you feel like you belong to, and that's totally fine.**
 
-It's also because--especially if you're like me--you don't want to belong to any of them because it feels like some diminishment of your personal relationship to reality. It's, like, theirs. Although I'm a little weird. l've started things and then left... I can't even bring myself to be a member of the thing I started. I don't know if that's typical. I think it's not. There really is more of a sense that if people find a group of people who are very much like them, it doesn't make them feel conformist. In some ways, only by finding a group of people who are exactly like you can you find people who recognize what makes you special, what makes you different. So only with a group of fellow lapsed progressive cyber-Jews can find others who understand what really distinguishes me from all the other ones like me. 
+It's also because--especially if you're like me--you don't want to belong to any of them because it feels like some diminishment of your personal relationship to reality. It's, like, theirs. Although I'm a little weird. l've started things and then left... I can't even bring myself to be a member of the thing I started. I don't know if that's typical. I think it's not. There really is more of a sense that if people find a group of people who are very much like them, it doesn't make them feel conformist. In some ways, only by finding a group of people who are exactly like you can you find people who recognize what makes you special, what makes you different. So only with a group of fellow lapsed progressive cyber-Jews can find others who understand what really distinguishes me from all the other ones like me.
 
-**And you can find that group of people, right? There's lots of tools for you to make those connections.** 
+**And you can find that group of people, right? There's lots of tools for you to make those connections.**
 
-Right. If I wanted to pursue my Judaism as some kind of organizing matrix. Now I only really want to pursue my Judaism to the extent that I want my daughter to be programmed with some of its ethos. 
+Right. If I wanted to pursue my Judaism as some kind of organizing matrix. Now I only really want to pursue my Judaism to the extent that I want my daughter to be programmed with some of its ethos.
 
-**You do want that is what you're saying.** 
+**You do want that is what you're saying.**
 
-Although I have mixed feelings about that too. 
+Although I have mixed feelings about that too.
 
 **Okay.**
 
-So much is wrong. 
+So much is wrong.
 
-**You know, I have a four year-old daughter as well, and I'm a pastor in a religious community, and I have this critical stance on some of the stuff as well. You know, the Abraham sacrificing Isaac story, do we want to get that one when she's four? What's the right age to tell that story?** 
+**You know, I have a four year-old daughter as well, and I'm a pastor in a religious community, and I have this critical stance on some of the stuff as well. You know, the Abraham sacrificing Isaac story, do we want to get that one when she's four? What's the right age to tell that story?**
 
-Right. Or was it written _for_ the four year-old? And if it is, then what's that for? What's circumcision for? Is it just so the kid knows your dad could have cut it off? He could have killed you. He could have killed you entirely. And just so you know, what's the place you would have protected most of all? Right, buddy. You know what I mean? He just left his little mark there. Yeah, it's dark stuff. 
+Right. Or was it written _for_ the four year-old? And if it is, then what's that for? What's circumcision for? Is it just so the kid knows your dad could have cut it off? He could have killed you. He could have killed you entirely. And just so you know, what's the place you would have protected most of all? Right, buddy. You know what I mean? He just left his little mark there. Yeah, it's dark stuff.
 
 And then because it's so metaphorical it's like, "What? We all came from Adam and Eve?" And it's like, "Well, maybe. I don't know. Well, kind of. Who knows? I don't know." You know?
 
@@ -105,9 +105,9 @@ I understand what people are going for, but at the same time... what they miss o
 
 People are not theological by nature, intellectually theological by nature. And very few have really gotten it, you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And then it's like, what do you do with all these people?
 
-**Can you say one thing that somebody who reads this interview, who's going to go out tomorrow and do one thing that's going to try to help them be more present and live in the now that they're not already doing--what's one thing they can do?** 
+**Can you say one thing that somebody who reads this interview, who's going to go out tomorrow and do one thing that's going to try to help them be more present and live in the now that they're not already doing--what's one thing they can do?**
 
-It depends on the person. A really simple one is... when you get home--if you work--when you get home, use no electronic media until you go to sleep. When you get home don't answer an email, don't check your Twitter feed, turn off the cell phone. Once. Once. Just as a practice do it once, and just experience that. 
+It depends on the person. A really simple one is... when you get home--if you work--when you get home, use no electronic media until you go to sleep. When you get home don't answer an email, don't check your Twitter feed, turn off the cell phone. Once. Once. Just as a practice do it once, and just experience that.
 
 So it isn't just an anti-technology message. It's just that the technology is so present in our lives that it's an easy metaphor for it...
 

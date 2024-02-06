@@ -1,9 +1,9 @@
 ---
-title: Autonomous Zone: The Work-as-Art of Yury Gitman
-subtitle: 
+title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
+subtitle:
 date: 2004-08-11
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

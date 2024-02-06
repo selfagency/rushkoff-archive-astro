@@ -1,9 +1,9 @@
 ---
-title: The Ayes Have It: Us Law Catches Up With Camera Phones
-subtitle: 
+title: 'The Ayes Have It: Us Law Catches Up With Camera Phones'
+subtitle:
 date: 2004-05-13
 blurb: In reaction to a recent spate of camera phone voyeurism in places like locker rooms and bleacher seats, a new bill has been put before the US Congress that would make it illegal to videotape, photograph, film, broadcast or record a person who is naked or in underwear in any location a \"reasonable person would believe that he or she could disrobe in privacy.\"
-notes: 
+notes:
 publication: nokias_the_feature
 categories: []
 ---
@@ -15,4 +15,3 @@ The law is really just an extension of existing voyeurism statutes, adding penal
 Apparently, several cases of camera phone voyeurism - in which people disrobing in public areas have been photographed - have gone unprosecuted because no legal language existed to restrict such use. Now, it appears, Congress is working overtime to catch up with the legal implications of the wireless lifestyle.
 
 In an ironic rebuff to communications technologies, the bill passed the Senate by unanimous, oral vote.
-

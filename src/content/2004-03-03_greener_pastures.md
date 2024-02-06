@@ -1,9 +1,9 @@
 ---
 title: Greener Pastures
-subtitle: 
+subtitle:
 date: 2004-03-03
-blurb: 
-notes: [https://rushkoff.com/greener-pastures/](https://rushkoff.com/greener-pastures/ "https://rushkoff.com/greener-pastures/")
+blurb:
+notes: 'https://rushkoff.com/greener-pastures/'
 publication: rushkoff.com
 categories: [journalism]
 ---

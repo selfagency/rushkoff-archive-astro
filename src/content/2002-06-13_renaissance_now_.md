@@ -1,9 +1,9 @@
 ---
 title: Renaissance Now?
-subtitle: 
+subtitle:
 date: 2002-06-13
-blurb: 
-notes: [https://rushkoff.com/renaissance-now/](https://rushkoff.com/renaissance-now/ "https://rushkoff.com/renaissance-now/")
+blurb:
+notes: "https://rushkoff.com/renaissance-now/"
 
 Date from citation in "Blogs and the Communications Renaissance" from Uses of Blogs
 publication: rushkoff.com

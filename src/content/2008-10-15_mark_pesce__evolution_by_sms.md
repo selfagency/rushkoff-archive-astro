@@ -1,16 +1,15 @@
 ---
-title: Mark Pesce: Evolution by SMS
-subtitle: 
+title: 'Mark Pesce: Evolution by SMS'
+subtitle:
 date: 2008-10-15
-blurb: 
-notes: 
+blurb:
+notes:
 publication: nokias_the_feature
 categories: []
 ---
 
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 
-  
 "We're all experts in the things that give us pleasure. We are compelled by our essential nature as social beings to share these moments. They help make life worth living. And now, in the age of the mobile, those moments are constantly at hand. Better living, through quality. The allure of the quality moments offered up by mobile digital social networks will make SMS seem like a weak opening act. "
 
 Yes, Mark Pesce talks big. Every five years or so, this programmer, philosopher, artist and provocateur emerges with another ground-shaking declaration -- and often the software or research to back it up.
@@ -43,7 +42,7 @@ Pesce: Both. Networks have an almost "gravitational" quality; the more we use a 
 
 TheFeature: Is LiveRecord an application for the data itself, or the social experience?
 
-Pesce: LiveRecord was an experiment in mobile connectivity; it starts with the basic understanding that modern mobiles on modern (2.5G and up) networks are more-or-less constantly connected to the Internet.  
+Pesce: LiveRecord was an experiment in mobile connectivity; it starts with the basic understanding that modern mobiles on modern (2.5G and up) networks are more-or-less constantly connected to the Internet.
 They're with you all the time, and they're always connected. So what can you do? You can get information. Fine. But, more significantly, you can record information. All the time. Anywhere, for any reason.
 
 So what kind of information to record? Information of value only to you is fine, so far as it goes. But far better -- given that it's a network we're talking about -- is to provide a shared pool of data, of experience, in this case, which everyone adds to and reaps the benefit of.
@@ -53,4 +52,3 @@ So LiveRecord allows you make note of your "moments of quality": that is, a grea
 TheFeature: Is someone building it out?
 
 Pesce: What happens next is up to you; the code has been released under the GPL.
-

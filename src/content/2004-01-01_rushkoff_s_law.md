@@ -1,9 +1,9 @@
 ---
 title: Rushkoff's Law
-subtitle: 
+subtitle:
 date: 2004-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11810](https://www.edge.org/response-detail/11810 "https://www.edge.org/response-detail/11810")
+blurb:
+notes: 'https://www.edge.org/response-detail/11810'
 publication: the-edge
 categories: [journalism]
 ---

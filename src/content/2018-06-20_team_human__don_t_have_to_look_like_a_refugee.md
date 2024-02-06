@@ -1,9 +1,9 @@
 ---
-title: Team Human: Don't have to look like a refugee
-subtitle: 
+title: "Team Human: Don't have to look like a refugee"
+subtitle:
 date: 2018-06-20
-blurb: 
-notes: 
+blurb:
+notes:
 publication: medium
 categories: [journalism]
 ---
@@ -26,7 +26,7 @@ As if to make these comparisons explicit, Trump proclaims that “the United Sta
 
 He’s not just calling them “poisonous snakes” or “animals,” but creating a situation that — however painful to watch — slowly recontextualizes human beings from America’s south as animals. With enough time, our brains reconcile the images with an imaginary reality: if these people are in cages like animals, then they must be animals. It’s the same strategy used to undermine the humanity of immigrants for ages, whether it’s the media treatment of Albanians fleeing to Italy in the 1990’s, made to appear like an invading army of rodents, or the Biblical Pharaoh framing his Israelite slaves as fast-replicating insects. It plays to the darkest, fear-based construction of our primitive psyche: us or them.
 
-Forget the reality — that Mexicans are actually emigrating from the US back to Mexico: there’s a net decrease. That more immigrants come from China and India than the south. The only way to understand the Trump administration’s proposed wall is as a safety play for global warming. 
+Forget the reality — that Mexicans are actually emigrating from the US back to Mexico: there’s a net decrease. That more immigrants come from China and India than the south. The only way to understand the Trump administration’s proposed wall is as a safety play for global warming.
 
 Instead of admitting there’s an environmental crisis underway and reducing carbon emissions, just accept the inevitable climate crisis, and barricade the nation from the inevitable flow of refugees from the south. Whatever we’re doing now is simply priming the American public for the inhumanity to come.
 

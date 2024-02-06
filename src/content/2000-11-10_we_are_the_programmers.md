@@ -1,10 +1,9 @@
 ---
 title: We Are the Programmers
-subtitle: 
+subtitle:
 date: 2000-11-10
-blurb: 
-notes: Date from Dropbox.  
-Text from [http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/](http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/ "http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/")
+blurb:
+notes: Date from Dropbox.  Text from http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/.
 publication: adbusters
 categories: [journalism]
 ---

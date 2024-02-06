@@ -1,9 +1,9 @@
 ---
 title: Open Source Currency
-subtitle: 
+subtitle:
 date: 2006-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11079](https://www.edge.org/response-detail/11079 "https://www.edge.org/response-detail/11079")
+blurb:
+notes: 'https://www.edge.org/response-detail/11079'
 publication: the-edge
 categories: []
 ---

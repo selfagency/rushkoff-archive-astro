@@ -1,9 +1,9 @@
 ---
-title: Winning Is for Losers: Enspiral and the Politics of Consent
+title: 'Winning Is for Losers: Enspiral and the Politics of Consent'
 subtitle: How a collective in New Zealand is pointing the way to social change from the bottom up
 date: 2018-11-07
-blurb: 
-notes: 
+blurb:
+notes:
 publication: medium
 categories: [journalism]
 ---

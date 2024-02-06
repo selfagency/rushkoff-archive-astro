@@ -3,7 +3,7 @@ title: Magic Is Real
 subtitle: How the universe winked at me, and why I think it means we will be okay
 date: 2023-02-02
 blurb: “Coincidence is the skill of a great storyteller.”
-notes: [https://humanparts.medium.com/magic-is-real-6b7977576705](https://humanparts.medium.com/magic-is-real-6b7977576705 "https://humanparts.medium.com/magic-is-real-6b7977576705")
+notes: 'https://humanparts.medium.com/magic-is-real-6b7977576705'
 publication: medium
 categories: [journalism]
 ---

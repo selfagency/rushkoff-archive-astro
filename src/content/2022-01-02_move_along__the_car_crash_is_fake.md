@@ -1,5 +1,5 @@
 ---
-title: Move Along: The Car Crash is Fake
+title: "Move Along: The Car Crash is Fake"
 subtitle: Real Americans Don’t Give a Shit About the Culture Wars
 date: 2022-01-02
 blurb: Life is hard enough without television anchors and talk show hosts imploring us to question the good faith efforts of everyone, everywhere, to simply get by.

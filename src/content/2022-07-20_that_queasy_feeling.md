@@ -3,7 +3,7 @@ title: That Queasy Feeling
 subtitle: How to transcend both denial and distraction when the world seems to be coming apart
 date: 2022-07-20
 blurb: If we’re going to stand any chance of drawing denialists out of their delusion, and ignorers away from their distractions, we’re going to have to offer them something better than a nightmare.
-notes: [https://rushkoff.medium.com/that-queasy-feeling-ecd933920397](https://rushkoff.medium.com/that-queasy-feeling-ecd933920397 "https://rushkoff.medium.com/that-queasy-feeling-ecd933920397")
+notes: 'https://rushkoff.medium.com/that-queasy-feeling-ecd933920397'
 publication: medium
 categories: [journalism]
 ---

@@ -3,7 +3,7 @@ title: Free Market Hypocrisy
 subtitle: Raising interest rates doesn’t increase supply, it just makes people poorer.
 date: 2022-11-04
 blurb: The Fed’s solution of raising interest rates doesn’t discourage gouging, nor does it increase the supply of goods. Raising interest rates is intended to lower demand by making people poorer.
-notes: [https://rushkoff.medium.com/free-market-hypocrisy-edb0fd255a1c](https://rushkoff.medium.com/free-market-hypocrisy-edb0fd255a1c "https://rushkoff.medium.com/free-market-hypocrisy-edb0fd255a1c")
+notes: 'https://rushkoff.medium.com/free-market-hypocrisy-edb0fd255a1c'
 publication: medium
 categories: [journalism]
 ---

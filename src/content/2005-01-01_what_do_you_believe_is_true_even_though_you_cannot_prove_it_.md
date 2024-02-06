@@ -1,9 +1,9 @@
 ---
 title: What Do You Believe Is True Even Though You Cannot Prove It?
-subtitle: 
+subtitle:
 date: 2005-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/10691](https://www.edge.org/response-detail/10691 "https://www.edge.org/response-detail/10691")
+blurb:
+notes: 'https://www.edge.org/response-detail/10691'
 publication: the-edge
 categories: [journalism]
 ---

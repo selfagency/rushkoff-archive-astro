@@ -1,11 +1,9 @@
 ---
 title: How Business Is Killing the Net
-subtitle: 
+subtitle:
 date: 1999-11-01
 blurb: Though entrepreneurs take credit for making the net flourish, the market has actually brought online innovation to a halt. The truth is that, as in life, the best things online are free
-notes: Nov. 1999 issue
-
-INCOMPLETE. We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
+notes: Nov. 1999 issue. INCOMPLETE. We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
 publication: shift
 categories: []
 ---

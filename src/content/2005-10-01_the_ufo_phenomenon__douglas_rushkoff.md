@@ -1,8 +1,8 @@
 ---
-title: The UFO Phenomenon: Douglas Rushkoff
-subtitle: 
+title: 'The UFO Phenomenon: Douglas Rushkoff'
+subtitle:
 date: 2005-10-01
-blurb: 
+blurb:
 notes: Date from Amazon
 publication: homeland-gameshow
 categories: [journalism]

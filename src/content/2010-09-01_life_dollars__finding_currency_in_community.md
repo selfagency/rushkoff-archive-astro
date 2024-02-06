@@ -1,8 +1,8 @@
 ---
-title: Life Dollars: Finding Currency In Community
-subtitle: 
+title: 'Life Dollars: Finding Currency In Community'
+subtitle:
 date: 2010-09-01
-blurb: 
+blurb:
 notes: Sep/Oct 2010 issue
 publication: futurist
 categories: [journalism]
@@ -37,7 +37,6 @@ But wait, there's more: The entire scheme reinvests a community's energy and cas
 Local currencies are now used by several hundred communities across the United States and Europe, giving people the chance to buy and sell goods and services from one another no matter what the greater economy might be doing. Instead of favoring large, centralized corporations, local currencies favor businesses and the community members who own them.
 
 There are two main types of local currency employed today. The simplest, like Comfort Dollars or the BerkShares created for the entire Berkshire Hills region in Massachusetts, have exchange rates for regular dollars. The BerkShares themselves can be spent only at local businesses that accept them, which keeps the currency circulating close to home. Local currencies such as these encourage local buying, put large corporations with no real community involvement at a big disadvantage, and circulate much more widely and rapidly through a community than conventional dollars. Further, the non-profit bank issuing BerkShares is not an extractive force; no one needs to get rich or pay anyone back. Businesses that refuse to accept the local currency do worse than just brand themselves as apathetic to local development; they cut themselves off from a potential source of revenue.
-
 
 Townspeople with their own money systems still need conventional currency. The three automobile repair shops in Great Barrington that accept BerkShares must still buy auto parts from Mopar or BMW with U.S. dollars. But they are willing to break down their bills into two separate categories, selling parts at cost in U.S. dollars and markups and labor in the local currency. The object is not to replace centralized currency altogether, but to break the monopoly of centralized currency and the corporations it supports over transactions that keep money circulating locally This is why many advocates now call local currency "complementary" currency--because it complements rather than replaces centralized money.
 
@@ -81,4 +80,4 @@ In this issue, writer Douglas Rushkoff and architects Kuo Pao Lian and Pavlina I
 
 Lian and Ilieva take the same concept further and imagine a neighborhood where consumers have been replaced by producers, where more energy is collected than is spent, where more money is made than is lost, where more food is grown than is eaten, and where every neighbor feels connected rather than isolated. Or angry. -Patrick Tucker
 
-*Douglas Rushkoff is the author of such best-selling books as Media Virus and Innovation from the Inside Out. This piece adapts material from his most recent book, Life Inc: How the World Became a Corporation and How to Take It Back (Random House, 2009). Web site www.rushkoff.com.*
+_Douglas Rushkoff is the author of such best-selling books as Media Virus and Innovation from the Inside Out. This piece adapts material from his most recent book, Life Inc: How the World Became a Corporation and How to Take It Back (Random House, 2009). Web site www.rushkoff.com._

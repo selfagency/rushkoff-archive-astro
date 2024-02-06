@@ -1,9 +1,9 @@
 ---
-title: Lin, Zuckerberg, Obama: New Kind of Heroes?
-subtitle: 
+title: 'Lin, Zuckerberg, Obama: New Kind of Heroes?'
+subtitle:
 date: 2012-02-22
-blurb: 
-notes: 
+blurb:
+notes:
 publication: cnn
 categories: [journalism]
 ---

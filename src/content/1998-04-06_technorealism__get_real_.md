@@ -1,9 +1,9 @@
 ---
-title: Technorealism: Get Real!
-subtitle: 
+title: 'Technorealism: Get Real!'
+subtitle:
 date: 1998-04-06
-blurb: 
-notes: 
+blurb:
+notes:
 publication: nation
 categories: [journalism]
 ---
@@ -38,6 +38,7 @@ RELATED ARTICLE: PRINCIPLES OF TECHNOREALISM
 8. Understanding technology should be an essential component of global citizenship. In a world driven by the flow of information, the interfaces--and the underlying code--that make information visible are becoming enormously powerful social forces. Understanding their strengths and limitations, and even participating in the creation of better tools, should be an important part of being an involved citizen. These tools affect our lives as much as laws do, and we should subject them to a similar democratic scrutiny.
 
 Signed (in alphabetical order):
+
 - David S. Bennahum. Editor, Meme; contributing editor, Wired Lingua Franca, Spin.
 - Brooke Shelby Biggs, Columnists, San Francisco Bay Guardian online; columnist, C.M.P.'s NetInsider.
 - Paulina Borsook. Author, Cyberselfish: Technolibertarianism and the True Revenge of the Nerds (forthcoming from Broadway Books).

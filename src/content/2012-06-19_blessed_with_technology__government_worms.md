@@ -1,9 +1,9 @@
 ---
-title: Blessed With Technology: Government Worms
-subtitle: 
+title: 'Blessed With Technology: Government Worms'
+subtitle:
 date: 2012-06-19
-blurb: 
-notes: 
+blurb:
+notes:
 publication: cnn
 categories: [journalism]
 ---
@@ -18,7 +18,7 @@ One turns on the microphone of a computer to record conversations; another sets 
 
 But, in the theater of cyberwarfare, every successful cyberattack can be considered the most advanced attack of all time. This is an arms race of a new sort, where measures and countermeasures change the entire programming landscape. The methods of previous attacks, once analyzed, are neutralized by new additions and patches to computer operating systems. This sends would-be infiltrators back to the drawing board to come up with new, superior approaches. Technological warfare is a bit like evolution, where new mutations compete for survival.
 
-Only on computers, we don't have to wait for nature to spontaneously fold a chromosome in some new way. We have programmers actively looking for new windows of opportunity, new maneuvers, new countermeasures and new ways of hiding what they're doing. 
+Only on computers, we don't have to wait for nature to spontaneously fold a chromosome in some new way. We have programmers actively looking for new windows of opportunity, new maneuvers, new countermeasures and new ways of hiding what they're doing.
 
 It amounts to the weaponization of cyberspace -- a practice in which the U.S. government has apparently been participating, sometimes reluctantly, [according to an article](http://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html?pagewanted=all) in The New York Times last week. The cyber campaign against Iran apparently began under the Bush administration working with Israel, and continued under Barack Obama, who voiced concern about the precedent America was setting.
 
@@ -40,4 +40,4 @@ And while at first glance this seems to be a downside -- an elephant hiding in p
 
 It's as if its programmers were attempting to be responsible or at least exclusionary, and to prevent the weaponization of the greater Internet. Now that's classic government behavior. It's also probably futile.
 
-Such efforts will likely only slow this inevitable slide toward an Internet that feels as blocked by security checks as an international airport. For in truth, we are *all* blessed with high technology.
+Such efforts will likely only slow this inevitable slide toward an Internet that feels as blocked by security checks as an international airport. For in truth, we are _all_ blessed with high technology.

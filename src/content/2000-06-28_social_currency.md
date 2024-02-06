@@ -2,10 +2,8 @@
 title: Social Currency
 subtitle: The internet is not killing off conversation but actively encouraging it
 date: 2000-06-28
-blurb: 
-notes: Source: [https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13 "https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13")
-
-Title from [https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency](https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency "https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency")
+blurb:
+notes: 'Source: https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13. Title from https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency.'
 publication: nyt_syndicate_guardian_of_london
 categories: [journalism]
 ---

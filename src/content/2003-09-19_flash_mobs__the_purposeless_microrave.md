@@ -1,15 +1,14 @@
 ---
-title: Flash Mobs: The Purposeless MicroRave
-subtitle: 
+title: 'Flash Mobs: The Purposeless MicroRave'
+subtitle:
 date: 2003-09-19
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---
 
 I surrender to the media hype. Here's what I think about Flash Mobs, writing about Flash Mobs, and writing about writing about Flash Mobs.
-
 
 I've gotten more email than I want to count asking me about Flash Mobs. And phone calls from countless journalists from countless local papers, all charged with writing something about these spontaneous cell-inspired gatherings.
 

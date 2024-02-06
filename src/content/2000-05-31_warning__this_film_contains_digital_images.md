@@ -1,8 +1,8 @@
 ---
-title: Warning: This Film Contains Digital Images
-subtitle: 
+title: "Warning: This Film Contains Digital Images"
+subtitle:
 date: 2000-05-31
-blurb: 
+blurb:
 notes: [https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8](https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8 "https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8")
 publication: nyt_syndicate_guardian_of_london
 categories: [journalism]

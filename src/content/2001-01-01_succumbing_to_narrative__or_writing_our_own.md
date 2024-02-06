@@ -1,9 +1,9 @@
 ---
 title: Succumbing To Narrative, Or Writing Our Own
-subtitle: 
+subtitle:
 date: 2001-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11778](https://www.edge.org/response-detail/11778 "https://www.edge.org/response-detail/11778")
+blurb:
+notes: 'https://www.edge.org/response-detail/11778'
 publication: the-edge
 categories: [journalism]
 ---

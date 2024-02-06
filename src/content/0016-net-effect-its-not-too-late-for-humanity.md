@@ -1,16 +1,16 @@
 ---
-title: 'Net Effect: It''s Not Too Late for Humanity to Survive the Digital'
-subtitle: 
+title: "Net Effect: It's Not Too Late for Humanity to Survive the Digital"
+subtitle:
 date: 2009-10-12T04:00:00.000+00:00
 publication: _publications/arthur.md
-blurb: 
-notes: 
-refs: 
-sources: 
+blurb:
+notes:
+refs:
+sources:
 categories:
-- _categories/journalism.md
-
+  - _categories/journalism.md
 ---
+
 The first time I worked with a computer, way back in high school in the late ’70s, there was no such thing as software. To use the terminal, I had to write my own code and then input it into the computer. Only then would the computer be a typewriter, a calculator, a psychiatrist, or an elevator controller. A computer was an “anything” machine. Moreover, everything I wrote and saved—my “content”—was accessible and changeable by anyone else on the system—unless I specifically ordered otherwise. Media was no longer fixed, it was changeable. Not only ownership, but also the notion of finality itself had become arbitrary—even artificial.
 
 Today, most of us think of computers—and all of our digital devices—in terms of the applications they offer: “What does it already do” instead of “what can I make it do?” Likewise, instead of teaching computer programming in school, we teach kids how to use Microsoft Windows. This difference is profound. It exemplifies the core difference between a society capable of thinking its way beyond its current limitations, and one destined to repeat the same mistakes until it drives itself to extinction.
@@ -35,4 +35,4 @@ It’s not too late to shift from an “always on” digital culture to an “al
 
 The digital should have made all of this more probable and more possible, not less.
 
-*[Douglas Rushkoff](http://ruskoff.com) is the author, most recently, of [Life Inc: How the world became a corporation and how to take it back](http://lifeincorporated.net). He hosts [The Media Squat](http://mediasquat.net) on WFMU, and teaches media studies at The New School.*
+_[Douglas Rushkoff](http://ruskoff.com) is the author, most recently, of [Life Inc: How the world became a corporation and how to take it back](http://lifeincorporated.net). He hosts [The Media Squat](http://mediasquat.net) on WFMU, and teaches media studies at The New School._

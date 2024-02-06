@@ -25,8 +25,19 @@ async function sortFiles() {
   for (const file of files) {
     console.log(file);
     let content = await readFile(`${base}/${file}`, 'utf-8');
-    content = content.replace(/notes:.+\[(.+)\]\(.+\)/g, 'source: $1');
-    content = content.replace(/blurb:.+\[(.+)\]\(.+\)/g, 'source: $1');
+
+    let note = content.match(/^notes: (.+)\npublication/m);
+
+    if (note && note[1]) {
+      let newNote = note[1].replace(/"/g, "'").replace(/\n/g, ' ');
+      content = content.replace(/^notes: Source: (.+)$/gm, `source: $1`);
+      content = content.replace(/^notes:.+?\[(.+)\].+?$/gm, `notes: $1`);
+    }
+
+    let blurb = content.match(/^blurb: (.+)$/gm);
+    if (blurb && !blurb[0]?.includes('"')) {
+      content = content.replace(/^blurb: (.+)\nnotes/gm, `blurb: "$1"\nnotes`);
+    }
 
     const meta = matter(content);
 
@@ -49,7 +60,6 @@ subtitle: ${meta.data.subtitle ?? ''}
 date: ${date}
 blurb: ${meta.data.blurb ?? ''}
 notes: ${meta.data.notes ?? ''}
-source: ${meta.data.source ?? ''}
 publication: ${publication ? publication.replace(/-/g, '_') : ''}
 ---
 
@@ -57,7 +67,7 @@ ${meta.content}
 `;
 
     const newPath =
-      categories.length > 0
+      categories?.length > 0
         ? `${base}/sorted/${categories[0]}/${date}_${title}.md`
         : `${base}/sorted/${date}_${title}.md`;
 

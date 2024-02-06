@@ -1,9 +1,9 @@
 ---
-title: Mark Pesce: Evolution by SMS
-subtitle: 
+title: 'Mark Pesce: Evolution by SMS'
+subtitle:
 date: 2005-05-11
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Breaking News: Stuff Actually Costs a Lot.
+title: "Breaking News: Stuff Actually Costs a Lot."
 subtitle: Higher prices are not necessarily a bad thing.
 date: 2022-06-13
 blurb: The real reason why things are starting to cost more is that the people making them, digging up the resources for them, and delivering them want to be paid a fair wage

@@ -1,9 +1,9 @@
 ---
-title: NET EFFECT: It's not too late for humanity to survive the digital
-subtitle: 
+title: "NET EFFECT: It's not too late for humanity to survive the digital"
+subtitle:
 date: 2009-10-12
-blurb: 
-notes: [https://arthurmag.com/2009/10/12/net-effects/](https://arthurmag.com/2009/10/12/net-effects/ "https://arthurmag.com/2009/10/12/net-effects/")
+blurb:
+notes: 'https://arthurmag.com/2009/10/12/net-effects/'
 publication: arthur
 categories: []
 ---

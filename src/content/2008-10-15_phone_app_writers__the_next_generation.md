@@ -1,6 +1,6 @@
 ---
-title: Phone App Writers: The Next Generation
-subtitle: 
+title: 'Phone App Writers: The Next Generation'
+subtitle:
 date: 2008-10-15
 blurb: Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?
 notes: Date given on June 22, 2005 on CV
@@ -10,7 +10,6 @@ categories: [journalism]
 
 Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?
 
-  
 New York University's Interactive Telecommunications Program recently concluded its thesis week, an annual event in which graduating Masters students present a dazzling menagerie of projects and prototypes to the public. Over the years I've taught at ITP, I've found that these projects tend to predict the trends that dominate interactive media three or four years later.
 
 Significantly, a full third of ITP's thesis projects this year were mobile. Sophisticated and remarkably imaginative, these projects highlight the priorities of a design and development community that's bound to make an impact.

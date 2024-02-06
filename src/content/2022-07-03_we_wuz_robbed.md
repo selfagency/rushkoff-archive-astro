@@ -2,8 +2,8 @@
 title: We Wuz Robbed
 subtitle: If baseball is going to abandon the poor, then I’m going to abandon baseball.
 date: 2022-07-03
-blurb: 
-notes: [https://rushkoff.medium.com/we-wuz-robbed-1a74ed49f32b](https://rushkoff.medium.com/we-wuz-robbed-1a74ed49f32b "https://rushkoff.medium.com/we-wuz-robbed-1a74ed49f32b")
+blurb:
+notes: 'https://rushkoff.medium.com/we-wuz-robbed-1a74ed49f32b'
 publication: medium
 categories: [journalism]
 ---

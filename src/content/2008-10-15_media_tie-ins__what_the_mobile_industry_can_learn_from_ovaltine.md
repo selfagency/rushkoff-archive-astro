@@ -1,16 +1,15 @@
 ---
-title: Media Tie-Ins: What the Mobile Industry Can Learn From Ovaltine
-subtitle: 
+title: 'Media Tie-Ins: What the Mobile Industry Can Learn From Ovaltine'
+subtitle:
 date: 2008-10-15
-blurb: 
-notes: 
+blurb:
+notes:
 publication: nokias_the_feature
 categories: []
 ---
 
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.
 
-  
 In the 1930s, the Ovaltine company stormed US markets riding one of the most wildly successful promotional alliances of all time. As sponsor of the popular kids' adventure series Radio Orphan Annie, Ovaltine offered a series of Annie-related premiums available exclusively to those listeners who redeemed the coupons they found inside the lids of Ovaltine jars. If your parents were raised in America, chances are they still remember the line of Radio Orphan Annie Secret Society decoder pins that still stand as one of the most successful promotions in media history.
 
 Only by obtaining one of these pins could eager Orphan Annie fans decode the secret message delivered at the end of each episode. Despite popular myth to the contrary, these messages were typically not so shamelessly promotional as "Drink your Ovaltine." Rather -- and quite significantly for us -- they were tied only to the content of the Orphan Annie program itself, by hinting at the events of the next day's program. These pins not only offered kids social currency, but they also provided a new avenue for a relationship with Annie. They enhanced the experience of the original media property while increasing sales of drink mix.
@@ -32,4 +31,3 @@ As might be expected, Japan's mobile industry is further along in its effort to 
 Bandai, the Japanese toy company that invented our contemporary notion of cross-promotion by developing TV shows with toy tie-ins already in mind, has been adding merchandising opportunities to an existing cartoon hit, Precure, and its associated game, Card Commun. Now, the game system also features an inexpensive clamshell mobile device that scans cards and allows for simple P2P communications. No surprise that a very similar device is also used by the girls on the show to transform themselves into monster-battling super heroes.
 
 In both cases, as well as in the most successful strategies yet to come, wireless devices proliferate by making themselves indispensable to the total enjoyment of an existing pop culture phenomenon -- rather than trying to become one themselves.
-

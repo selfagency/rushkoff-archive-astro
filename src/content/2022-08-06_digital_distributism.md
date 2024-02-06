@@ -1,9 +1,9 @@
 ---
 title: Digital Distributism
-subtitle: Part I: A new economic story; a new theory of change
+subtitle: 'Part I: A new economic story; a new theory of change'
 date: 2022-08-06
-blurb: 
-notes: [https://rushkoff.medium.com/digital-distributism-52020e73de7](https://rushkoff.medium.com/digital-distributism-52020e73de7 "https://rushkoff.medium.com/digital-distributism-52020e73de7")
+blurb:
+notes: 'https://rushkoff.medium.com/digital-distributism-52020e73de7'
 publication: medium
 categories: [journalism]
 ---

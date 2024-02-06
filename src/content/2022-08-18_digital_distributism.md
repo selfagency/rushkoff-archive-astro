@@ -1,9 +1,9 @@
 ---
 title: Digital Distributism
-subtitle: Part III: How to get from digital industrialism to digital distributism
+subtitle: 'Part III: How to get from digital industrialism to digital distributism'
 date: 2022-08-18
-blurb: 
-notes: [https://rushkoff.medium.com/digital-distributism-2f1ace120387](https://rushkoff.medium.com/digital-distributism-2f1ace120387 "https://rushkoff.medium.com/digital-distributism-2f1ace120387")
+blurb:
+notes: 'https://rushkoff.medium.com/digital-distributism-2f1ace120387'
 publication: medium
 categories: [journalism]
 ---

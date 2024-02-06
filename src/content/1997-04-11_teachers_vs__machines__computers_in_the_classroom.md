@@ -1,9 +1,9 @@
 ---
-title: Teachers vs. machines: computers in the classroom
-subtitle: 
+title: 'Teachers vs. machines: computers in the classroom'
+subtitle:
 date: 1997-04-11
-blurb: 
-notes: 
+blurb:
+notes:
 publication: washington_times
 categories: []
 ---
@@ -66,5 +66,4 @@ But the resistance to computers in the classroom may have more to do with our fe
 
 When teachers are free to relieve themselves of the responsibility of having to know all the answers, they will rise to the greater challenge of becoming living partners in inquiry rather than static storehouses of information. (That's what databases and 16-mm films are for.)
 
-*Douglas Rushkoff is the best-selling author of "Playing the Future" (HarperCollins, 1996). Questions may be sent to him by electronic mail. The address is rushkoff@interport.net. Readers with Internet access can tap into Mr. Rushkoff's site at The New York Times Syndicate, http://nytsyn.com/rushkoff. He welcomes questions, challenges and interaction.*
-
+_Douglas Rushkoff is the best-selling author of "Playing the Future" (HarperCollins, 1996). Questions may be sent to him by electronic mail. The address is rushkoff@interport.net. Readers with Internet access can tap into Mr. Rushkoff's site at The New York Times Syndicate, http://nytsyn.com/rushkoff. He welcomes questions, challenges and interaction._

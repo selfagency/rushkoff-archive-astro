@@ -1,8 +1,8 @@
 ---
-title: Cannabis: Stealth Goddess
-subtitle: 
+title: 'Cannabis: Stealth Goddess'
+subtitle:
 date: 2010-01-01
-blurb: 
+blurb:
 notes: 2010
 publication: the-pot-book
 categories: [book-chapters]

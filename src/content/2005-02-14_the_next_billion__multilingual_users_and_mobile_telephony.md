@@ -1,16 +1,16 @@
 ---
-title: The Next Billion: Multilingual Users and Mobile Telephony
-subtitle: 
+title: 'The Next Billion: Multilingual Users and Mobile Telephony'
+subtitle:
 date: 2005-02-14
 blurb: Why the mobile industry needs to learn the world's struggling languages.
-notes: 
+notes:
 publication: nokias_the_feature
 categories: []
 ---
 
 Even today's most guarded estimates indicate that half of the world's 6000 languages will likely be extinct by the year 2050. A decidedly more catastrophic prediction from researchers at the University of Manchester now places that number closer to 90%. Because mobile phones aren't yet universal interpreters, we should be concerned -- not simply in the interest of preserving cultural heritage and diversity, but also because minority language communities represent some of the most potentially valuable markets still underserved by the mobile industry. Think Africa, deep Asia, the Pacific and the Middle East.
 
-The problem for advocates of language conservation is that there's little concrete evidence that a decline in the number of languages would be directly detrimental to the human race. Several recent books have attempted to address the ramifications of this phenomenon, including David Crystal's *Language Death* as well as Daniel Nettle's and Suzanne Romaine's *Vanishing Voices: The Extinction of the World's Languages.* However, as much as we can commend these authors for their passion and concern, when it comes to the question of why we should care, they have little to offer beyond speculation and tenuous analogies.
+The problem for advocates of language conservation is that there's little concrete evidence that a decline in the number of languages would be directly detrimental to the human race. Several recent books have attempted to address the ramifications of this phenomenon, including David Crystal's _Language Death_ as well as Daniel Nettle's and Suzanne Romaine's _Vanishing Voices: The Extinction of the World's Languages._ However, as much as we can commend these authors for their passion and concern, when it comes to the question of why we should care, they have little to offer beyond speculation and tenuous analogies.
 
 It may be surprising that the most compelling rationale for language preservation comes from the market itself -- the very market being blamed for language extinction in the first place.
 
@@ -39,4 +39,3 @@ Nokia seems to have taken a step toward addressing the Chinese dilemma with its 
 Plausibly, if services for some of the larger minority language groups are developed first, any economic barriers would further diminish with each successive language. But this project needs to begin somewhere, and soon. One of the primary reasons minority language communities are disappearing so rapidly now is precisely because global businesses so readily dismiss them. So let's not forget that language and culture are the true content of mobile phones. And, moreover, it's going to be in the mobile industry's interests to invest in these communities and the active, continued use of these languages. After all, why use an interactive device if it can't really express who you are?
 
 Indeed, cell phones may only become universal when their makers acknowledge the particular people using them.
-

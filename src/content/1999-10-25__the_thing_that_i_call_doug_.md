@@ -2,8 +2,8 @@
 title: The Thing That I Call Doug
 subtitle: A Talk with Douglas Rushkoff
 date: 1999-10-25
-blurb: 
-notes: [https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html](https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html "https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html")
+blurb:
+notes: 'https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html'
 publication: the-edge
 categories: [journalism]
 ---

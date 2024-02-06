@@ -1,8 +1,8 @@
 ---
-title: Team Human: Our Last Best Hope for Peeps
-subtitle: Team Human: Our Last Best Hope for Peeps
+title: "Team Human: Our Last Best Hope for Peeps"
+subtitle: "Team Human: Our Last Best Hope for Peeps"
 date: 2016-09-05
-blurb: 
+blurb:
 notes: Source: [https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2](https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2 "https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2")
 publication: medium
 categories: [journalism]

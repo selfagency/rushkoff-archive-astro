@@ -1,9 +1,9 @@
 ---
-title: The Lollapalooza Syndrome: When Meatspace and Cellspace are Redundant
-subtitle: 
+title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace are Redundant'
+subtitle:
 date: 2003-08-26
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

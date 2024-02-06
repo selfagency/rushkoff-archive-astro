@@ -1,11 +1,9 @@
 ---
 title: Which One of These Sneakers Is Me?
-subtitle: 
+subtitle:
 date: 2000-03-30
 blurb: How Marketers Outsmart Our Media-Savvy Children
-notes: Date from [https://depaul.digication.com/walis_words/Rhetorical_Essay](https://depaul.digication.com/walis_words/Rhetorical_Essay "https://depaul.digication.com/walis_words/Rhetorical_Essay")  
-
-Date given as 10/99 on CV and as 4/13/09 on [http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html](http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html "http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html")
+notes: Date from https://depaul.digication.com/walis_words/Rhetorical_Essay. Date given as 10/99 on CV and as 4/13/09 on http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html.
 publication: london_times
 categories: [journalism]
 ---

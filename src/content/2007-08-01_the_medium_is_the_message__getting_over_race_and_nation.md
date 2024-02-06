@@ -1,8 +1,8 @@
 ---
-title: The Medium is the Message: Getting Over Race and Nation
-subtitle: 
+title: 'The Medium is the Message: Getting Over Race and Nation'
+subtitle:
 date: 2007-08-01
-blurb: 
+blurb:
 notes: Date from Amazon
 publication: what-israel-means-to-me
 categories: [book-chapters]

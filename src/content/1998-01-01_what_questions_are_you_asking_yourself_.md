@@ -1,9 +1,9 @@
 ---
 title: What Questions Are You Asking Yourself?
-subtitle: 
+subtitle:
 date: 1998-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11740](https://www.edge.org/response-detail/11740 "https://www.edge.org/response-detail/11740")
+blurb:
+notes: https://www.edge.org/response-detail/11740
 publication: the-edge
 categories: [journalism]
 ---

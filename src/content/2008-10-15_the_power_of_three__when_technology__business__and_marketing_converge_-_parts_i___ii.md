@@ -1,16 +1,15 @@
 ---
-title: The Power of Three: When Technology, Business, and Marketing Converge - Parts I & II
-subtitle: 
+title: 'The Power of Three: When Technology, Business, and Marketing Converge - Parts I & II'
+subtitle:
 date: 2008-10-15
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---
 
 The new generation of high-speed content delivery technologies marks a turning point for the mobile industry. It's finally time to abandon the notion that you are just cell phone companies or wireless access providers, and come to grips with the fact that you are selling, or at least supporting, an entirely new set of digital lifestyles.
 
-  
 No matter how established a presence you already are in the wireless phone industry, this is the moment to make some tough choices about just what kind of media services company you want to be, who you aim to serve, and how you propose to do it. And you simply must do all three of these things at the same time and with the same strategy in mind.
 
 Congruence
@@ -39,7 +38,6 @@ Wireless companies are going to have to decide which of the two kinds of consume
 
 I'll cover that in part two, tomorrow.
 
-  
 Part II
 
 It's one thing to know your consumers - it's a far greater challenge to develop your technology and balance sheet around them.

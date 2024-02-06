@@ -1,9 +1,9 @@
 ---
 title: The Internet
-subtitle: 
+subtitle:
 date: 2008-01-01
-blurb: 
-notes: [https://www.edge.org/memberbio/douglas_rushkoff](https://www.edge.org/memberbio/douglas_rushkoff "https://www.edge.org/memberbio/douglas_rushkoff")
+blurb:
+notes: 'https://www.edge.org/memberbio/douglas_rushkoff'
 publication: the-edge
 categories: [journalism]
 ---

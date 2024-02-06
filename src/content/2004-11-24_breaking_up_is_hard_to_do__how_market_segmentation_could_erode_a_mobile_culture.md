@@ -1,9 +1,9 @@
 ---
-title: Breaking Up Is Hard to Do: How Market Segmentation Could Erode A Mobile Culture
-subtitle: 
+title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode A Mobile Culture'
+subtitle:
 date: 2004-11-24
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

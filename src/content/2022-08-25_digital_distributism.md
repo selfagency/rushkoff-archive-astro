@@ -1,9 +1,9 @@
 ---
 title: Digital Distributism
-subtitle: Part IV: How we convince the wealthy that shared prosperity is even possible
+subtitle: 'Part IV: How we convince the wealthy that shared prosperity is even possible'
 date: 2022-08-25
-blurb: 
-notes: [https://rushkoff.medium.com/digital-distributism-f5021efcfec](https://rushkoff.medium.com/digital-distributism-f5021efcfec "https://rushkoff.medium.com/digital-distributism-f5021efcfec")
+blurb:
+notes: 'https://rushkoff.medium.com/digital-distributism-f5021efcfec'
 publication: medium
 categories: [journalism]
 ---

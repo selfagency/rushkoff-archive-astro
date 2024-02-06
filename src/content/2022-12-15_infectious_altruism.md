@@ -2,8 +2,8 @@
 title: Infectious Altruism
 subtitle: A Holiday Story
 date: 2022-12-15
-blurb: 
-notes: [https://rushkoff.medium.com/infectious-altruism-e434a99ed916](https://rushkoff.medium.com/infectious-altruism-e434a99ed916 "https://rushkoff.medium.com/infectious-altruism-e434a99ed916")
+blurb:
+notes: 'https://rushkoff.medium.com/infectious-altruism-e434a99ed916'
 publication: medium
 categories: [journalism]
 ---

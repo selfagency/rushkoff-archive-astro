@@ -2,8 +2,8 @@
 title: Why Time is up for Warner
 subtitle: Douglas Rushkoff on the $300bn deal that's a merger in name only
 date: 2000-01-19
-blurb: [https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10](https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10 "https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10")
-notes: 
+blurb:
+notes: https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10
 publication: nyt_syndicate_guardian_of_london
 categories: [journalism]
 ---

@@ -1,9 +1,9 @@
 ---
-title: Maybe you can handle the truth: How tech has dulled our taste for tall tales
-subtitle: 
+title: 'Maybe you can handle the truth: How tech has dulled our taste for tall tales'
+subtitle:
 date: 2015-10-28
-blurb: 
-notes: 
+blurb:
+notes:
 publication: digital_trends
 categories: [journalism]
 ---
@@ -11,7 +11,7 @@ categories: [journalism]
 Digital culture seems up in arms about the ways the new Steve Jobs movie diverges from factual history. Unlike the film, nothing ever failed in an Apple demo, Jobs didn’t get into fights with people before going on stage, Wozniak never said any of the things his character does in the movie, and engineers simply don’t work and speak the way they do in the movie.
 For people who knew Jobs or Apple well – or have even read Walter Isaacson’s book – the poetic license taken by the film feels like an inaccuracy being entered into the historical record. In that sense, it’s worse than a time-travel inconsistency in the Star Trek universe.
 
-But is that really why people are so disturbed? Biopics have always taken liberties with real lives of their subjects; the dismay over this fictional take on the Jobs legend rivals the hoopla over a lustful Jesus in Scorsese’s Last Temptation of Christ.  Something else is going on: We’re dissatisfied with how movies work, because digital media has rendered them – or at least the way they tell stories — obsolete.
+But is that really why people are so disturbed? Biopics have always taken liberties with real lives of their subjects; the dismay over this fictional take on the Jobs legend rivals the hoopla over a lustful Jesus in Scorsese’s Last Temptation of Christ. Something else is going on: We’re dissatisfied with how movies work, because digital media has rendered them – or at least the way they tell stories — obsolete.
 
 **Bedtime tales**
 Aaron Sorkin is probably our best living cinematic storyteller. In full disclosure, I grew up with the guy, directed him in high school musicals like Pippin and Charlie Brown, and sat next to him in the American History class where he got the idea for A Few Good Men. I really do love him and respect his work.
@@ -20,7 +20,7 @@ But there’s something about his writing that has always struck me as, well, al
 
 Because the real world just isn’t tidy like that. Conflicts don’t resolve; they linger and fester. Like terrorism or global warming. In real life there’s almost never a sigh of ultimate relief. The cathartic self-knowledge of the sort depicted at the end of every perfect drama doesn’t even happen in the shrink’s office, much less the night before a trial (A Few Good Men), an election (An American President) or an iPhone demo.
 
-At best, good drama of this sort is escapist. It gives us a way to see life the way we’d like it to be: Justice prevails, evildoers get their comeuppance, and honor is rewarded. Sorkin shows like The West Wing or The Newsroom succeed not because they show us what those environments are really like, but because they show us what they should be like. In stark contrast to the calamity defining George W’s tenure, we get President Martin Sheen on a heroic journey on par with Shakespeare’s Henry V.  While the ratings-driven newsmedia boggles the Gulf War and misreports elections in progress, The Newsroom was an homage to journalistic ethics and integrity trumping ratings and profit.
+At best, good drama of this sort is escapist. It gives us a way to see life the way we’d like it to be: Justice prevails, evildoers get their comeuppance, and honor is rewarded. Sorkin shows like The West Wing or The Newsroom succeed not because they show us what those environments are really like, but because they show us what they should be like. In stark contrast to the calamity defining George W’s tenure, we get President Martin Sheen on a heroic journey on par with Shakespeare’s Henry V. While the ratings-driven newsmedia boggles the Gulf War and misreports elections in progress, The Newsroom was an homage to journalistic ethics and integrity trumping ratings and profit.
 
 But these worlds must be depicted this way in order for them to serve as the perfect engines for heroic drama of a very particular type. They are shot in a photorealistic style, but they are backdrops for the classical well-made play.
 

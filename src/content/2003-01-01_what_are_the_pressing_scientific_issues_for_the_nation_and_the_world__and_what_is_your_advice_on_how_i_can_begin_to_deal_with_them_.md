@@ -1,9 +1,9 @@
 ---
 title: What Are the Pressing Scientific Issues for the Nation and the World, and What Is Your Advice on How I Can Begin to Deal With Them?
-subtitle: 
+subtitle:
 date: 2003-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11712](https://www.edge.org/response-detail/11712 "https://www.edge.org/response-detail/11712")
+blurb:
+notes: 'https://www.edge.org/response-detail/11712'
 publication: the-edge
 categories: [journalism]
 ---

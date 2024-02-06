@@ -1,9 +1,9 @@
 ---
-title: Media Tie-Ins: What the Mobile Industry Can Learn from Ovaltine
-subtitle: 
+title: 'Media Tie-Ins: What the Mobile Industry Can Learn from Ovaltine'
+subtitle:
 date: 2004-10-19
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

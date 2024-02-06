@@ -1,9 +1,9 @@
 ---
-title: Breaking Up Is Hard to Do: How Market Segmentation Could Erode a Mobile Culture
-subtitle: 
+title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode a Mobile Culture'
+subtitle:
 date: 2004-12-08
 blurb: \"I know I'm wasting half my advertising dollars — I just don't know which half.\"
-notes: 
+notes:
 publication: nokias_the_feature
 categories: []
 ---
@@ -40,9 +40,8 @@ Another area that seems, on the surface, particularly well-suited to the target 
 
 As a result, each keystroke, each game download, each refresh of a WAP site is, from then on, weighted with the additional consideration that these actions are being monitored, and that future offers will be based on them. Even if this effect is so subtle as to be subconscious, the categorization of consumers into evermore rigid personal profiles works against the underlying sensibility that wireless users have the freedom to define and redefine themselves with every new moment of interaction.
 
-Even the early Internet benefited tremendously from users' ability to recast themselves into new characters. Chat rooms were filled with individuals trying on new ages, sexes and temperaments. Where the Internet did this on the level of fantasy or avatar, wireless devices allow this to happen in a way that is much more connected to one's real life experience. The North American mobile community UPOC, for example, allows young people to belong to any number of different or overlapping affinity groups. Hopping onto the *Buffy the Vampire Slayer* list shouldn't necessarily peg an individual as a Buffy fan, as targeted ads based on this information might suggest.
+Even the early Internet benefited tremendously from users' ability to recast themselves into new characters. Chat rooms were filled with individuals trying on new ages, sexes and temperaments. Where the Internet did this on the level of fantasy or avatar, wireless devices allow this to happen in a way that is much more connected to one's real life experience. The North American mobile community UPOC, for example, allows young people to belong to any number of different or overlapping affinity groups. Hopping onto the _Buffy the Vampire Slayer_ list shouldn't necessarily peg an individual as a Buffy fan, as targeted ads based on this information might suggest.
 
 The more users sense that their actions in the wireless space are tracked and then acted upon, the less they will look to it as a way of trying on provisional identities, engaging in spontaneous experiences and testing new activities. It's as if everything will appear on their permanent record.
 
 Indeed, basing a 21st-century marketing strategy on a technology originally developed to save on postage stamps just isn't the most thoughtful or productive way of engaging with this new marketplace. It could reduce wireless participation from a mode of self-expression to a reflection of some pre-fab, computer-generated consumer profile and, in the process, change the mobile phone from a portal into a mirror.
-

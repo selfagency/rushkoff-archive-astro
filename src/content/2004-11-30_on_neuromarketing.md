@@ -1,9 +1,9 @@
 ---
 title: On Neuromarketing
-subtitle: 
+subtitle:
 date: 2004-11-30
-blurb: 
-notes: [https://arthurmag.com/2004/11/30/on-neuromarketing/](https://arthurmag.com/2004/11/30/on-neuromarketing/ "https://arthurmag.com/2004/11/30/on-neuromarketing/")
+blurb:
+notes: 'https://arthurmag.com/2004/11/30/on-neuromarketing/'
 publication: arthur
 categories: [journalism]
 ---

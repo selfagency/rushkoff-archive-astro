@@ -1,16 +1,15 @@
 ---
-title: Universal Access: Not Just for the Disabled
-subtitle: 
+title: 'Universal Access: Not Just for the Disabled'
+subtitle:
 date: 2008-10-15
-blurb: 
-notes: 
+blurb:
+notes:
 publication: nokias_the_feature
 categories: []
 ---
 
 Paying attention to one group's disabilities enhances usability for everyone else.
 
-  
 "It's wonderful! I can finally tell when my phone is about to die," Joanne Becker exclaimed ecstatically as her cell dutifully -- and audibly -- announced its battery level, making her an instant convert to the Mobile Speak accessibility program. Sure, as the software's product manager, Becker might be biased. Then again, she is also completely blind, making it difficult to contain her joy at finally being able to use features in her cell phone that most of us take for granted, like seeing the signal level, reading the caller ID, or scrolling through menus.
 
 Although we rarely stop to consider it, much of the information presented on our mobile devices relies on a specific sense for correct interpretation. Most modern handsets beep, blink or vibrate energetically to attract our attention. But after that, it's every sense for himself. Most phone interfaces are essentially unusable by those impaired in any way, and, as a result, pretty difficult for the rest of us as well. By making these devices more universally accessible, we might end up making them more usable, as well.
@@ -32,4 +31,3 @@ On a less invasive and potentially more immediate level, the BrainPort, develope
 Wicab's promotional material reveals a lot about the way such technologies tend to evolve: "Proven applications include normal balance control for disabled vestibular patients, vision for the blind, and a whole new dimension in video games." Tackling inner ear disease brings us a better Super Mario.
 
 Moreover, while direct-to-brain interfaces have the potential to make communications technologies more accessible to people with a broad range of disabilities, they only reinforce the need for us to incorporate universal accessibility strategies sooner than later. After all, you wouldn't want to tab mentally through 20 menus while holding down Menu-Left Arrow just to check your SMS messages while you're seeing with your tongue.
-

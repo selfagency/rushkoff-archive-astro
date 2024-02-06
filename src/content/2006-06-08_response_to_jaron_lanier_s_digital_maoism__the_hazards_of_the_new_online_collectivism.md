@@ -1,8 +1,8 @@
 ---
-title: Response to Jaron Lanier’s Digital Maoism: The Hazards of the New Online Collectivism
-subtitle: 
+title: "Response to Jaron Lanier’s Digital Maoism: The Hazards of the New Online Collectivism"
+subtitle:
 date: 2006-06-08
-blurb: 
+blurb:
 notes: Source: [https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism](https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism "https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism")
 
 Date from CV

@@ -1,8 +1,8 @@
 ---
-title: Permanent Revolution: Occupying Democracy
-subtitle: 
+title: 'Permanent Revolution: Occupying Democracy'
+subtitle:
 date: 2013-03-01
-blurb: 
+blurb:
 notes: Spring 2013
 publication: sociological-quarterly
 categories: [scholarship]
@@ -26,7 +26,7 @@ But the media attention garnered through YouTube-sponsored debates and national 
 
 CNN and other news networks now use scientific-looking “people meters” to gauge instantaneous audience responses to candidates' speeches and debates. A line at the bottom of the screen indicates male and female enthusiasm for whatever a candidate is saying in that moment—as if the immediate reaction and the considered response were one in the same (Goodman, Rushkoff, and Dretzin 2003).
 
-By amplifying the more gamified, amateur, and impulse-driven qualities of the net, e-democracy has not only missed the mark as an opportunity for a more participatory electorate and civic body, but also exacerbated some of the least productive elements of the spectator democracy so many believed would be obsolesced by the Internet. (McLuhan 1992) 
+By amplifying the more gamified, amateur, and impulse-driven qualities of the net, e-democracy has not only missed the mark as an opportunity for a more participatory electorate and civic body, but also exacerbated some of the least productive elements of the spectator democracy so many believed would be obsolesced by the Internet. (McLuhan 1992)
 
 While the net may have failed democracy as a tool or platform, it may have succeeded on a more subtle yet ultimately deeper level as a media environment. That is, while the keyboards and Web sites and blogs and streaming video and social networks actually comprising the Internet may not be directly impacting the ways in which citizens engage in civics, digital technology as a cultural landscape is beginning to have a profound effect on the way people conceive of themselves in relationship to one another and institutions. Most significantly, as I will attempt to show in the case of the Occupy Wall Street movement, the net suggests new metaphors and demonstrates new principles that inform a novel amalgam of activist practices.
 
@@ -102,28 +102,28 @@ The original occupation may be "over” as far as it is officially recognized by
 
 **REFERENCES**
 
-Burnett, E. 2011. “Out Front.” _CNN Out Front_. October 3 (E. Burnett, Interviewer).  
-Carse, J. 1997. _Finite and Infinite Games_. New York: RandomHouse.  
-Christopher, T. 2011. _Van Susteren Explains Why Anti-Fox Clip with Occupy Wall St. Protester Got Cut_. October 3. Medialte. Retrieved December 15, 2012. (http://www.mediaite.com/tv/van-susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/).  
-Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). 2003. _The Persuaders_ \[Motion Picture\]. PBS Frontline.  
-Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants." _The New York Times_. December 5.  
-Kücklick, J. 2004. _Play and Playability as Key Concepts in New Media Studies_. Playability.de. Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")).  
-Logan, R. K. 1987. _The Alphabet Effect: The Impact of the Phonetic Alphabet on the Development of Western Civilization_. New York: St. Martins Press.  
-Martinson, J. 2000. "Online Politics Proves a Turn-off." _The Guardian_. August 27.  
-McLuhan, M. 1962. _The Gutenberg Galaxy: The Making of Typographic Man_. Toronto, ON: University of Toronto Press.  
-\---. 1992. _Laws of Media: The New Science_. Toronto, ON: University of Toronto Press.  
-Miller, J. H. and S. E. Page. 2007. _Complex Adaptive Systems: An Introduction to Computational Models of Social Life_. Princeton, NJ: Princeton University Press.  
-Mirzoeff, N. 2012. _The People's Bailout_. Occupy 2012 Blog October 12. Retrieved November 1, 2012. (http://www.nicholasmirzoeff.com/O2012/2012/10/21/the-peoples-bailout-and-the-rolling-jubilee/).  
-Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http://www.vote.com).  
-Occupy Los Angeles. N.d. _The Dummy's Guide to General Assembly_. OccupyLosAngeles.org. Retrieved December 15, 2012. (http://occupylosangeles.org/assemblyguide).  
-Ong, W. 2002. _Orality and Literacy_. New York: Routledge.  
-Pariser, E. 2011. _The Filter Bubble: What the Internet Is Hiding from You_. New York: Penguin.  
-Rushkoff, D. 1995. _Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos_. New York: HarperEdge.  
-\---. 1998. _Open Source Democracy: How Online Communication Is Changing Offline Politics_. London: Demos.  
-\---. 2009. _Life Inc: How Corporatism Conquered the World and How We Can Take It Back_. New York: RandomHouse.  
-\---. 2012. _Monopoly Moneys: The Media Environment of Corporatism and the Player's Way Out_. Utrecht, the Netherlands: Utrecht University Dissertation.  
-Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” _Baltimore Sun_. May 13.  
-Sullivan, A. 2008. "We Are the Ones We've Been Waiting For." _The Atlantic_. February 28, p. 34.  
-Taylor, A. 2012. “Occupy 2.0: Strike Debt." _The Nation_. September 5, p. 4.  
-Trippi, J. 2004. _The Revolution Will Not Be Televised_. New York: William Morrow.  
+Burnett, E. 2011. “Out Front.” _CNN Out Front_. October 3 (E. Burnett, Interviewer).
+Carse, J. 1997. _Finite and Infinite Games_. New York: RandomHouse.
+Christopher, T. 2011. _Van Susteren Explains Why Anti-Fox Clip with Occupy Wall St. Protester Got Cut_. October 3. Medialte. Retrieved December 15, 2012. (http://www.mediaite.com/tv/van-susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/).
+Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). 2003. _The Persuaders_ \[Motion Picture\]. PBS Frontline.
+Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants." _The New York Times_. December 5.
+Kücklick, J. 2004. _Play and Playability as Key Concepts in New Media Studies_. Playability.de. Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf 'http://www.playability.de/Play.pdf')).
+Logan, R. K. 1987. _The Alphabet Effect: The Impact of the Phonetic Alphabet on the Development of Western Civilization_. New York: St. Martins Press.
+Martinson, J. 2000. "Online Politics Proves a Turn-off." _The Guardian_. August 27.
+McLuhan, M. 1962. _The Gutenberg Galaxy: The Making of Typographic Man_. Toronto, ON: University of Toronto Press.
+\---. 1992. _Laws of Media: The New Science_. Toronto, ON: University of Toronto Press.
+Miller, J. H. and S. E. Page. 2007. _Complex Adaptive Systems: An Introduction to Computational Models of Social Life_. Princeton, NJ: Princeton University Press.
+Mirzoeff, N. 2012. _The People's Bailout_. Occupy 2012 Blog October 12. Retrieved November 1, 2012. (http://www.nicholasmirzoeff.com/O2012/2012/10/21/the-peoples-bailout-and-the-rolling-jubilee/).
+Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http://www.vote.com).
+Occupy Los Angeles. N.d. _The Dummy's Guide to General Assembly_. OccupyLosAngeles.org. Retrieved December 15, 2012. (http://occupylosangeles.org/assemblyguide).
+Ong, W. 2002. _Orality and Literacy_. New York: Routledge.
+Pariser, E. 2011. _The Filter Bubble: What the Internet Is Hiding from You_. New York: Penguin.
+Rushkoff, D. 1995. _Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos_. New York: HarperEdge.
+\---. 1998. _Open Source Democracy: How Online Communication Is Changing Offline Politics_. London: Demos.
+\---. 2009. _Life Inc: How Corporatism Conquered the World and How We Can Take It Back_. New York: RandomHouse.
+\---. 2012. _Monopoly Moneys: The Media Environment of Corporatism and the Player's Way Out_. Utrecht, the Netherlands: Utrecht University Dissertation.
+Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” _Baltimore Sun_. May 13.
+Sullivan, A. 2008. "We Are the Ones We've Been Waiting For." _The Atlantic_. February 28, p. 34.
+Taylor, A. 2012. “Occupy 2.0: Strike Debt." _The Nation_. September 5, p. 4.
+Trippi, J. 2004. _The Revolution Will Not Be Televised_. New York: William Morrow.
 Weiner, N. 1965. _Cybernetics, Second Edition, or the Control and Communication in the Animal and the Machine_. Cambridge, MA: MIT Press.

@@ -1,6 +1,6 @@
 ---
-title: Human After All: Finding The Others
-subtitle: 
+title: "Human After All: Finding The Others"
+subtitle:
 date: 2020-05-21
 blurb: Algorithms, AI and surveillance capitalism are colonising the human mind, and it’s time for us to resist by rising to the occasion of our own humanity, claims renowned author and media theorist Douglas Rushkoff. William Alderwick plugs in to the matrix
 notes: [https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff](https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff "https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff")
@@ -10,7 +10,7 @@ categories: [journalism]
 
 “Well, honestly, and I can tell you this ’cos I can’t tell the London _Times_ this, but _Team Human_ is a media virus, a collective sigil, neurolinguistic reprogramming. The other books I wrote are information, they’re data and I create narrative around them. I’m telling stories about things. _Team Human_ is almost a piece of literary software. It’s meant as an experience through which people can embed their brain with a programme that will help them resist the manipulative algorithms, platforms and systems that are out there. It’s a piece of cultural medicine.”
 
-Douglas Rushkoff beams back conspiratorially from the other side of our video call_._ The author, broadcaster, former keyboardist for Genesis P-Orridge’s Psychic TV and oft-labelled heir to pioneering media theorist Marshall McLuhan is talking about his 20th book, _Team Human_. A manifesto split into 100 short sections, aka doses or ‘mimetic constructs’, the book – which shares its title with a weekly interview podcast Rushkoff has been hosting since 2016 – warns that anti-human agendas are being hard-baked into the technologies, markets and major cultural institutions that shape our lives. For Rushkoff, software engineers are framing us as the problem and technology as the solution. Not only are we in danger of writing ourselves out of the equation, he warns, but we’re faced with the prospect of the equations (AI as the first technology capable of writing its own algebra, if you will) originating and deploying their own tactics against us.
+Douglas Rushkoff beams back conspiratorially from the other side of our video call*.* The author, broadcaster, former keyboardist for Genesis P-Orridge’s Psychic TV and oft-labelled heir to pioneering media theorist Marshall McLuhan is talking about his 20th book, _Team Human_. A manifesto split into 100 short sections, aka doses or ‘mimetic constructs’, the book – which shares its title with a weekly interview podcast Rushkoff has been hosting since 2016 – warns that anti-human agendas are being hard-baked into the technologies, markets and major cultural institutions that shape our lives. For Rushkoff, software engineers are framing us as the problem and technology as the solution. Not only are we in danger of writing ourselves out of the equation, he warns, but we’re faced with the prospect of the equations (AI as the first technology capable of writing its own algebra, if you will) originating and deploying their own tactics against us.
 
 > “Team Human is almost a piece of literary software. It’s meant as an experience through which people can embed their brain with a programme that will help them resist the manipulative algorithms, platforms and systems that are out there. It’s a piece of cultural medicine.”
 
@@ -54,7 +54,7 @@ _“Coercion_ was really the bigger turning point.” Like the special sunglasse
 
 ![Cover of Douglas Rushkoff’s Coercion, 1999.](https://images.squarespace-cdn.com/content/v1/5846f7493e00be622f3bfb1a/1590092030054-CTR9OW031V4XIPEVA51W/coercion.jpg?format=300w)
 
-Cover of Douglas Rushkoff’s _Coercion,_ 1999_._
+Cover of Douglas Rushkoff’s _Coercion,_ 1999*.*
 
 “_Coercion_ was saying: ‘There’s an arms race between us and the controllers. They are upscaling their tactics, using digital technology, they’re embedding the digital infrastructure with regression and transference and neurolinguistic programming.’ That was in ’99, before (behaviour scientist) BJ Fogg started his ‘captology' department at Stanford.
 
@@ -112,7 +112,7 @@ By[ Devin Doyle](http://devindoyle.com/)
 
 “That’s the thing,” Rushkoff says. “The disease is this stark intentionality and this ability to optimise everything really for control and safety and lack of challenge. And humanity is something else! It’s this messy, boundary condition. It’s one expression of nature, one way of manifesting evolution’s social urge.
 
-_“_Even with something like Extinction Rebellion, there’s a certain element of play. They want it to be fun, a way of eliciting love and sex and these vital human energies. I do think we’re more human when we’re at play, and that part of rapport is a playfulness.”
+\_“\_Even with something like Extinction Rebellion, there’s a certain element of play. They want it to be fun, a way of eliciting love and sex and these vital human energies. I do think we’re more human when we’re at play, and that part of rapport is a playfulness.”
 
 What emerges through _Team Human_ is not a revolutionary message of overturning the tables and violently taking to the streets. What Rushkoff suggests in terms of action is almost prosaic: being visible, engaging in protests, participating politically and developing new platforms, engaging purposely with the natural world, reforming corrupt institutions and building better ones. The core message seems to be that we just need to participate more.
 

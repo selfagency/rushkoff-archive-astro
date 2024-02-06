@@ -1,9 +1,9 @@
 ---
-title: No secrets, no shame: How technology forces honesty
-subtitle: 
+title: 'No secrets, no shame: How technology forces honesty'
+subtitle:
 date: 2016-07-18
-blurb: 
-notes: 
+blurb:
+notes:
 publication: digital_trends
 categories: [journalism]
 ---

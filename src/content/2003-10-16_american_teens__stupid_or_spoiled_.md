@@ -1,9 +1,9 @@
 ---
-title: American Teens: Stupid or Spoiled?
-subtitle: 
+title: 'American Teens: Stupid or Spoiled?'
+subtitle:
 date: 2003-10-16
 blurb: America's teen market may prove difficult for snazzy handset manufacturers to penetrate. But the real reasons for upgrade reluctance might surprise them.
-notes: 
+notes:
 publication: nokias_the_feature
 categories: []
 ---
@@ -18,7 +18,7 @@ Rather than bemoan the rampant (perhaps American-born) consumerism that may have
 
 The answer occurred to me as I wandered the Knightsbridge district in search of a place to check my email. There were no Internet cafes. My friends in South Kensington happened to own a computer and a connection - a very expensive and very spotty dial-up that disconnected after a couple of minutes. Unlike the United States, local phone calls in the UK actually cost money - a lot of money.
 
-In such an environment, a highly functional cell phone is not a luxury gadget, but a primary access point to the net. It's not seen as just another gadget to go along (and ultimately dock) with the PC, digital camera, mp3 player, webcam, and game console. It is to serve as *all* these things, all by itself.
+In such an environment, a highly functional cell phone is not a luxury gadget, but a primary access point to the net. It's not seen as just another gadget to go along (and ultimately dock) with the PC, digital camera, mp3 player, webcam, and game console. It is to serve as _all_ these things, all by itself.
 
 In America, where consumerism still does run rampant, old PC's are stacked in people's closets, and landline access is cheap, or even free. On most residential phone plans, we don't pay for individual local calls. Dial-up Internet access can be had for less than ten bucks a month, and unlimited broadband via cable or dsl for around thirty. Access is plentiful.
 
@@ -29,4 +29,3 @@ It's not their lack of technological sophistication that keeps American teens fr
 It's not that American kids don't have cell phones. They do. It's just that they don't have the same need to use their phones for activities that are already being satisfied better elsewhere. After a couple of hours of free instant messaging on the computer every day after school, how much of an appetite could they possibly have for sms, photos or none, late into the night?
 
 Even if they don't prove to be eager handset upgraders, America's youth will still rack up airtime on the cell phones they already have. They're just going to do it the old fashioned way: talking.
-

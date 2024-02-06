@@ -1,9 +1,9 @@
 ---
-title: Computers in the Classroom: A Mindful Lens on Technology
-subtitle: 
+title: 'Computers in the Classroom: A Mindful Lens on Technology'
+subtitle:
 date: 2012-12-11
-blurb: 
-notes: 
+blurb:
+notes:
 publication: edutopia
 categories: [journalism]
 ---

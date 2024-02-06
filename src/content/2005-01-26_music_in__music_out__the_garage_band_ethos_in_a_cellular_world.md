@@ -1,9 +1,9 @@
 ---
-title: Music In, Music Out: The Garage Band Ethos in a Cellular World
-subtitle: 
+title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
+subtitle:
 date: 2005-01-26
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

@@ -1,9 +1,9 @@
 ---
-title: The Next Billion: Multilingual Users and Mobile Telephony
-subtitle: 
+title: 'The Next Billion: Multilingual Users and Mobile Telephony'
+subtitle:
 date: 2005-01-26
-blurb: 
-notes: 
+blurb:
+notes:
 publication: feature
 categories: [journalism]
 ---

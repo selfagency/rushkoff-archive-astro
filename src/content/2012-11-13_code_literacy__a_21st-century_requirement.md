@@ -1,9 +1,9 @@
 ---
-title: Code Literacy: A 21st-Century Requirement
-subtitle: 
+title: 'Code Literacy: A 21st-Century Requirement'
+subtitle:
 date: 2012-11-13
-blurb: 
-notes: 
+blurb:
+notes:
 publication: edutopia
 categories: [journalism]
 ---
@@ -27,15 +27,19 @@ Codeacademy
 To build my own code literacy, I decided to take free classes through the online website Codecademy.com, and ended up liking it so much that I'm now working with them to provide free courses for kids to learn to code. The lessons I've learned along the way are of value to parents and teachers looking to grow more code literate young people.
 
 ### 1. Learning by Doing
+
 One of Codecademy's key insights was that programming is best taught by doing. Where literature might best be taught through books, coding is best taught in an interactive environment. So instead of just giving students text to read or videos to watch, Codecademy invites them to learn to code by actually making code. Every online lesson involves writing lines of code in an interactive window within the web browser, and then hitting the "run" button and watching those lines actually work. Instant payoff, and an "intrinsic reward."
 
 ### 2. A Stake in the Outcome
+
 Code also makes much more sense to people when it is tied to a real project. People need reasons for learning one skill or another. When students are working to devise a computer adventure game, all of a sudden abstract mathematical functions become immediately relevant.
 
 ### 3. Benefits of Interaction
+
 Finally, while badges and point scores are great for motivating students in the short run, social connections to a real group of cohorts probably matter more for the long haul. Codecademy's first strides in that direction, simple forums, allow users to seek out help from others when they're stuck in a lesson. Meanwhile, those who are mastering a skill find it really sinks in when they have the opportunity to explain things to someone encountering it for the first time. Just as research has shown a heterogeneous classroom benefits those on both ends of the aptitude spectrum, interaction between more and less experienced code learners benefits both.
 
 ## After-School Adventures
+
 The greatest challenge so far, at least from my end, has been figuring out ways to get these interactive lessons into the schools that need them. Between curriculum standards, overworked faculty and legal restrictions on inviting minors to use websites, it's an uphill battle. To help with these challenges, Codecademy has unveiled an after-school program through which any parent or teacher can teach code to a self-selecting group of interested students.
 
 Codecademy.com/afterschool is basically "Codecademy in a box." It's a year of interactive lesson tracks, specially assembled for an after-school group or club run by an adult with no programming experience. In the fall semester, kids make a website by learning HTML and CSS. In the spring, they build an adventure game by learning Javascript. The beauty of the model is that the adult supervising all this needn't know anything about code in advance. The course materials let you know everything you need to stay a week ahead of the kids, and the rest of the online community is there to help you out if you get stuck.

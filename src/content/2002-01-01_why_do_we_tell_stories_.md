@@ -1,9 +1,9 @@
 ---
 title: Why do we tell stories?
-subtitle: 
+subtitle:
 date: 2002-01-01
-blurb: 
-notes: [https://www.edge.org/response-detail/11881](https://www.edge.org/response-detail/11881 "https://www.edge.org/response-detail/11881")
+blurb:
+notes: 'https://www.edge.org/response-detail/11881'
 publication: the-edge
 categories: [journalism]
 ---

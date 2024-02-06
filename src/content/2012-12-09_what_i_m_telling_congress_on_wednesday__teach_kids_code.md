@@ -1,9 +1,9 @@
 ---
-title: What I'm Telling Congress on Wednesday: Teach Kids Code
-subtitle: 
+title: "What I'm Telling Congress on Wednesday: Teach Kids Code"
+subtitle:
 date: 2012-12-09
-blurb: 
-notes: 
+blurb:
+notes:
 publication: cnn
 categories: [journalism]
 ---
