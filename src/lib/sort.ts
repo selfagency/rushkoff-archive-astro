@@ -16,7 +16,7 @@ async function getPubs() {
 }
 
 async function sortFiles() {
-  const pubs = await getPubs();
+  // const pubs = await getPubs();
   const base = `${process.cwd()}/src/content`;
   const files = (await readdir(base, { withFileTypes: true }))
     .filter(dirent => dirent.isFile() && !dirent.name.endsWith('.json'))
@@ -24,7 +24,9 @@ async function sortFiles() {
 
   for (const file of files) {
     console.log(file);
-    const content = await readFile(`${base}/${file}`, 'utf-8');
+    let content = await readFile(`${base}/${file}`, 'utf-8');
+    content = content.replace(/notes:.+\[(.+)\]\(.+\)/g, 'source: $1');
+    content = content.replace(/blurb:.+\[(.+)\]\(.+\)/g, 'source: $1');
 
     const meta = matter(content);
 
@@ -47,14 +49,26 @@ subtitle: ${meta.data.subtitle ?? ''}
 date: ${date}
 blurb: ${meta.data.blurb ?? ''}
 notes: ${meta.data.notes ?? ''}
-publication: ${publication}
-categories: [${categories ? categories.join(', ') : ''}]
+source: ${meta.data.source ?? ''}
+publication: ${publication ? publication.replace(/-/g, '_') : ''}
 ---
 
 ${meta.content}
 `;
 
-    const newPath = `${base}/sorted/${date}_${title}.md`;
+    const newPath =
+      categories.length > 0
+        ? `${base}/sorted/${categories[0]}/${date}_${title}.md`
+        : `${base}/sorted/${date}_${title}.md`;
+
+    if (categories) {
+      for (const cat of categories) {
+        if (!existsSync(`${base}/sorted/${cat}`)) {
+          await mkdir(`${base}/sorted/${cat}`);
+        }
+      }
+    }
+
     await writeFile(newPath, newContent);
   }
 }
