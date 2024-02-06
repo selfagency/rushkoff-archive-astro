@@ -1,26 +1,35 @@
 {
-  "name": "project",
+  "name": "rushkoff-archive",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "migrate": "tsc src/lib/sort.ts; mv src/lib/sort.js src/lib/sort.cjs; node src/lib/sort.cjs; rm -rf src/lib/sort.cjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
-    "astro": "^4.3.2"
+    "@astrojs/mdx": "^2.1.1",
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.0.5",
+    "astro": "^4.3.3",
+    "astro-breadcrumbs": "^2.0.2",
+    "dayjs": "^1.11.10"
   },
   "devDependencies": {
+    "@types/node": "^18.19.14",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.56.0",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-plugin-perfectionist": "^2.5.0",
     "eslint-plugin-security": "^2.1.0",
+    "gray-matter": "^4.0.3",
     "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0",
     "typescript": "^5.3.3"
   }
 }
