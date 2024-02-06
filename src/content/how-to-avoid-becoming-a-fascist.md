@@ -1,0 +1,52 @@
+---
+publication: _publications/medium.md
+title: How to Avoid Becoming a Fascist
+subtitle: Why I turned down an appearance on Steve Bannon’s podcast
+image: "/uploads/1_ojovgbi4zxc-durmceahwq.jpeg"
+date: 2021-10-21T00:00:00.000-04:00
+blurb: Here was one of the others — the most other dude on the planet, even more other
+  than Trump himself, asking me to engage. On some level, it felt cowardly, even hypocritical
+  not to accept the challenge.
+notes: 'Source: [https://gen.medium.com/how-to-avoid-becoming-a-fascist-8c0132483151](https://gen.medium.com/how-to-avoid-becoming-a-fascist-8c0132483151
+  "https://gen.medium.com/how-to-avoid-becoming-a-fascist-8c0132483151")'
+refs: ''
+sources: ''
+categories:
+- _categories/journalism.md
+
+---
+This week, while I was watching the U.S. House committee debate contempt charges against former Trump aide Steve Bannon, a surprising email popped into my inbox: an invitation to appear as a guest on Bannon’s podcast _The War Room: Pandemic_, to talk about transhumanism. His people said he admired my work, my book [_Team Human _](https://www.amazon.com/Team-Human-Douglas-Rushkoff/dp/0393541533/)in particular, and that I would be indispensable to any discussion of excessive uses of technology.
+
+Cut to the chase: No, I did not accept. But I have to admit, I thought long and hard about the opportunity, what my choice would mean to my understanding of public discourse, what common ground I may have with Steve Bannon, and — perhaps most of all — what this invitation said about my work.
+
+Of course, and kind of sadly, my immediate thought was that going on Bannon would get me “canceled” by my peers, readers, and the wider public. I understand why. Going on the show amounts to a tacit endorsement of the program and its host. It legitimizes and normalizes a dangerous propaganda platform — especially since most people wouldn’t actually hear the episode. All they’d ever know is that I went on it, alongside guests like Marjorie Taylor Greene and Rudy Giuliani.
+
+I guess in the back of my head I was thinking I could maybe pull off a coup like when [Jon Stewart went on CNN’s _Crossfire_](https://www.youtube.com/watch?v=aFQFB5YpDZE) and deconstructed the farce in real time, explaining how the show was “hurting America,” and telling them to stop. What if I could start with transhumanism and the way technologists are auto-tuning humanity to the needs of capitalism, and then pivot to Bannon’s similar media manipulation of humanity toward what I believe can only end in violence and catastrophe? What if I could deconstruct the way his _The War Room_ was exploiting the pandemic, conflating the fear of technology, vaccines, viruses, people of color, immigrants, and intellectuals — all in the name of bringing about his vision of a Great Awakening?
+
+Yeah, right.
+
+First off, I’m a good conversant but I’m not as bold, skillful, or clever as Jon Stewart. Plus, he was appearing on live mainstream television, not a niche, prerecorded, and potentially edited podcast. The second I ventured beyond trasnhumanism, I’d likely be cut off. Okay then, fine, I told myself and turned it down. If Bannon really wants to engage with me one-on-one, he knows where to find me and I’m happy to meet with him. But I’m not going on his show.
+
+But something about that nagged at me, too. What would McLuhan do? Or Robert Anton Wilson? Abbie Hoffman? Since I published _Team Human_, I’ve been shouting “find the others” from the rooftops. By the “others,” I mean not just other people who think like us, but the _others_. We’ve got to engage with them — not necessarily hug or love them, but at least engage with them — if we’re going to navigate this civilization forward. Here was one of the others — the most _other_ dude on the planet, even more other than Trump himself, asking me to engage. On some level, it felt cowardly, even hypocritical not to accept the challenge. If it was being made in good faith which, given Bannon’s reputation and comportment, would be hard to conclude.
+
+But let’s say it was. This would be the 21st-century equivalent of Walter Benjamin being invited on the _Joseph Goebbels’ Radio Hour_. Or Theodor Adorno on _Himmler Tonight_. Could either of them have gotten through to the Nazis, if given half a chance? Do I possess enough Jon Stewart-like superpowers to get Steve Bannon to reconsider his [pandering to racists](https://nationalpost.com/news/world/donald-trumps-chief-strategist-happy-to-pander-to-racism-but-does-he-believe-it), his [support of authoritarian](https://www.reuters.com/article/us-brazil-election-bannon/steve-bannon-endorses-far-right-brazilian-presidential-candidate-idUSKCN1N01S1)s, his [fomenting of violence](https://www.forbes.com/sites/nicholasreimann/2020/11/05/steve-bannon-condemned-banned-from-twitter-after-suggesting-violence-as-a-warning-to-federal-bureaucrats/?sh=7d862f3161eb) here in America and around the world? What if I could convince him that he doesn’t need to destroy the world in order to build back better?
+
+Never in a million years. I can’t go on the show; I get that. As one friend told me, “people will misread it as another Greenwaldian migration,” referring to the way so many smart journalists and intellectuals have retreated to Substack and made new careers out of inflaming the grievances of anti-government, anti-vax, anti-SJW folks. Inflammation is the name of Bannon’s accelerationist game, after all: Get people on all sides angry, bring about the civil war or mega-conflict, let them burn it all down, and start fresh with something more local, human, and natural.
+
+Significant aspects of the end state envisioned by these folks, Bannon included, do not sound all that terrible to me. I’m not a leftist, as traditionally defined. I’m more of an anarcho-syndicalist who believes in the primacy of very small, worker-owned businesses and co-ops, networked together into a larger and more circular economy. I admire concepts like “distributism” (instead of redistributing the spoils of capitalism after the fact, workers own the means of production in the first place) and “subsidiarity” (a business only grows to the size required to serve its community, and not bigger — certainly not growing for growth’s sake alone).
+
+But in that vision of a highly local, hands-on, soul-enriching experience of work, civics, and community are some of the very same concepts spouted by Bannon and his acolytes. Bannon is a Latin Mass Catholic intellectual in the tradition of [Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) and [Belloc](https://en.wikipedia.org/wiki/Hilaire_Belloc) (whose work overlapped with the anti-Semitic and fascist thinkers of their own day). He is a big fan of [both distributism and subsidiarity](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/09/11/charlie-rose-of-60-minutes-just-called-steve-bannon-a-good-catholic-is-that-true/) — concepts that originally came from the Vatican as a response to the seemingly irreconcilable conflict between capitalists and communists.
+
+Uh oh. So maybe instead of me convincing Bannon to change his ways, he’s in the process of distilling the fascism-compatible elements of my work to his Master Plan. Transhumanism could easily be cast as the elite establishment technocracy imposing more of its anti-human agenda on the good people of America. Like the fear of social justice warriors controlling our speech, and health officials mandating jabs, the technorati will implant us with nanobots or turn us into machines. (Does he say those things directly? Maybe not — but his guests do.) In that light, transhumanism becomes another immediately palpable trigger for more fear and rage — the emotional elements required for more conspiracies, confusion, and violence.
+
+If he’s successful, my _Team Human_ initiative — and similar efforts at reclaiming human autonomy from techno-capitalism — become tributaries to a new fascistic ideology. It’s the same thing that happened, with varying degrees of complicity, to the work of Wagner, Heidegger, Rudolf Steiner, Carl Jung… anyone who entertained the idea of some natural human condition being corrupted by civilizational constructs. Oh shit. Am I giving fuel to the fascists?
+
+That’s why it’s so important we stay aware of the greater cultural context in which our critiques are landing. Going on Fox to argue against mask mandates or overly sensitized school curriculum — however correct those positions may be on their own — is serving another purpose when its happening on Tucker Carlson. But in truth, anyone making a valid critique of technocratic capitalism — of Bezos’ monopoly, Musk’s brain implants, Uber’s worker exploitation, Bill Gates’ condescending health edicts, or the billionaires’ survival bunkers — is also in danger of inadvertently providing fodder for those who want to stoke rage against the machine.
+
+Where the important difference comes, however, is in our theories of change. Those of us concerned about the extractive power of capitalism and the way media, technology, and other social forces repress human agency and well-being, must long for incremental, nonviolent change. We cannot burn it all down. While stoking a bit of rage may have served Larry Kramer when he was encouraging gay men to “Act Up!” about inaction on AIDS, there’s more than enough rage in the air to go around.
+
+Bannon’s theory of change, as far as I can tell, is to support and endorse authoritarians while fomenting as much fear and resentment among the common folk as possible in order for them to take to the streets and dismantle the systems they believe are repressing them. It’s a scorched-earth approach to social change that mirrors the apocalyptic fury of certain interpretations of Catholic mythology. Part of the design is to stoke so much rage and racism that it triggers the _other_ side to resort to scorched-earth tactics as well. Chaos reigns, all systems are torn down, and God’s natural order of might-makes-right is restored.
+
+While any valid critique of the repressive systems of techno-capitalism can contribute to such destructive lunacy, it’s up to us to distinguish our work and insights from this distorted, immature, hateful, racist, and destructive approach to social change. We don’t accomplish that by engaging publicly with those for whom engagement is simply a means to inflammation — and certainly not in their forum.
+
+Those are not the others we’re looking for.
